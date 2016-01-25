@@ -1,0 +1,4921 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Hexo]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2016-01-24T20:52:21.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[garfee]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[蕾伊]]></title>
+    <link href="http://yoursite.com/cijt0u4d1001yjcbmbo6ek0c7/Rey/"/>
+    <id>http://yoursite.com/cijt0u4d1001yjcbmbo6ek0c7/Rey/</id>
+    <published>2016-01-24T07:52:21.000Z</published>
+    <updated>2016-01-24T20:52:21.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="u857E_u4F0A"><a href="#u857E_u4F0A" class="headerlink" title="蕾伊"></a>蕾伊</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
+<thead>
+<tr>
+<th></th>
+<th>1星</th>
+<th>2星</th>
+<th>3星</th>
+<th>4星</th>
+<th>5星</th>
+<th>6星</th>
+<th>7星</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>力量</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3.3</td>
+<td>4</td>
+<td>4.6</td>
+<td>5.3</td>
+</tr>
+<tr>
+<td>敏捷</td>
+<td></td>
+<td></td>
+<td></td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+</tr>
+<tr>
+<td>智慧</td>
+<td></td>
+<td></td>
+<td></td>
+<td>2.7</td>
+<td>3.3</td>
+<td>3.9</td>
+<td>4.4</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u82F1_u96C4_u6280_u80FD_u6982_u51B5"><a href="#u82F1_u96C4_u6280_u80FD_u6982_u51B5" class="headerlink" title="英雄技能概况"></a>英雄技能概况</h2><table>
+<thead>
+<tr>
+<th>技能</th>
+<th>类型</th>
+<th>冷却时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>移位打击</td>
+<td>基本</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>杠杆作用</td>
+<td>特殊</td>
+<td>4</td>
+</tr>
+<tr>
+<td>疾风连击</td>
+<td>特殊</td>
+<td>4</td>
+</tr>
+<tr>
+<td>专注打击</td>
+<td>独有</td>
+<td>NA</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u79FB_u4F4D_u6253_u51FB"><a href="#u6280_u80FD_u2014_u79FB_u4F4D_u6253_u51FB" class="headerlink" title="技能—移位打击"></a>技能—移位打击</h2><ul>
+<li>满级效果<br>Deal Physical damage to target enemy with a 40% chance to gain Foresight for 2 Turns.</li>
+<li>类型<br>基本</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+15% 洞察几率</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u6760_u6746_u4F5C_u7528"><a href="#u6280_u80FD_u2014_u6760_u6746_u4F5C_u7528" class="headerlink" title="技能—杠杆作用"></a>技能—杠杆作用</h2><ul>
+<li>满级效果<br>Deal Physical Damage to target enemy.  In addition, Rey gains Foresight for 2 turns if she doesn’t have any positive status effects, and Offense Up for 3 turns if she does.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>4</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+15% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u75BE_u98CE_u8FDE_u51FB"><a href="#u6280_u80FD_u2014_u75BE_u98CE_u8FDE_u51FB" class="headerlink" title="技能—疾风连击"></a>技能—疾风连击</h2><ul>
+<li>满级效果<br>Deal Physical damage to target enemy twice, with a 55% chance to deal damage a third time.  If Rey has any positive status effects, she will deal damage one additional time. Hits after the first deal reduced damage.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>4</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+15% 第三次攻击几率</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u4E13_u6CE8_u6253_u51FB"><a href="#u6280_u80FD_u2014_u4E13_u6CE8_u6253_u51FB" class="headerlink" title="技能—专注打击"></a>技能—专注打击</h2><ul>
+<li>满级效果<br>Rey has +23% Offense as long as she doesn’t have any negative status effects.</li>
+<li>类型<br>独有</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 进攻</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+2% 进攻</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+2% 进攻</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+2% 进攻</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+2% 进攻</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+2% 进攻</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="u857E_u4F0A"><a href="#u857E_u4F0A" class="headerlink" title="蕾伊"></a>蕾伊</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[第一教团军官]]></title>
+    <link href="http://yoursite.com/cijt0u09m001xjcbmosaglu3t/First-Order-Officer/"/>
+    <id>http://yoursite.com/cijt0u09m001xjcbmosaglu3t/First-Order-Officer/</id>
+    <published>2016-01-24T07:52:16.000Z</published>
+    <updated>2016-01-24T20:52:16.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="u7B2C_u4E00_u6559_u56E2_u519B_u5B98"><a href="#u7B2C_u4E00_u6559_u56E2_u519B_u5B98" class="headerlink" title="第一教团军官"></a>第一教团军官</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
+<thead>
+<tr>
+<th></th>
+<th>1星</th>
+<th>2星</th>
+<th>3星</th>
+<th>4星</th>
+<th>5星</th>
+<th>6星</th>
+<th>7星</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>力量</td>
+<td></td>
+<td></td>
+<td>2.6</td>
+<td>3.3</td>
+<td>3.9</td>
+<td>4.6</td>
+<td>5.3</td>
+</tr>
+<tr>
+<td>敏捷</td>
+<td></td>
+<td></td>
+<td>3.5</td>
+<td>4.4</td>
+<td>5.3</td>
+<td>6.1</td>
+<td>7</td>
+</tr>
+<tr>
+<td>智慧</td>
+<td></td>
+<td></td>
+<td>2.6</td>
+<td>3.3</td>
+<td>3.9</td>
+<td>4.6</td>
+<td>5.3</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u82F1_u96C4_u6280_u80FD_u6982_u51B5"><a href="#u82F1_u96C4_u6280_u80FD_u6982_u51B5" class="headerlink" title="英雄技能概况"></a>英雄技能概况</h2><table>
+<thead>
+<tr>
+<th>技能</th>
+<th>类型</th>
+<th>冷却时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>充分利用</td>
+<td>基本</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>进军的教团</td>
+<td>特殊</td>
+<td>4</td>
+</tr>
+<tr>
+<td>定身箭</td>
+<td>特殊</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u5145_u5206_u5229_u7528"><a href="#u6280_u80FD_u2014_u5145_u5206_u5229_u7528" class="headerlink" title="技能—充分利用"></a>技能—充分利用</h2><ul>
+<li>满级效果<br>Deal Physical damage to target enemy.  This attack deals 20% more damage for each ally that has Advantage.</li>
+<li>类型<br>基本</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+5% 额外伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+15% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u8FDB_u519B_u7684_u6559_u56E2"><a href="#u6280_u80FD_u2014_u8FDB_u519B_u7684_u6559_u56E2" class="headerlink" title="技能—进军的教团"></a>技能—进军的教团</h2><ul>
+<li>满级效果<br>A random ally gains 100% Turn Meter and Advantage for 2 turns. If that ally is First Order, they also gain Offense Up for 3 Turns.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>4</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+10% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+10% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+10% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>进攻提升持续 +1</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+10% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+10% 进度条获取</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u5B9A_u8EAB_u7BAD"><a href="#u6280_u80FD_u2014_u5B9A_u8EAB_u7BAD" class="headerlink" title="技能—定身箭"></a>技能—定身箭</h2><ul>
+<li>满级效果<br>Physical damage to target enemy with a 70% chance to remove 50% Turn Meter.  If any Turn Meter is removed this way, each ally gains 15% Turn Meter.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>4</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 进度条减少几率</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+15% 进度条减少几率</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 进度条获取</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="u7B2C_u4E00_u6559_u56E2_u519B_u5B98"><a href="#u7B2C_u4E00_u6559_u56E2_u519B_u5B98" class="headerlink" title="第一教团军官"></a>第一教团军官</h1]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[波 达美伦]]></title>
+    <link href="http://yoursite.com/cijt0ttby001wjcbmx45icygy/Poe-Dameron/"/>
+    <id>http://yoursite.com/cijt0ttby001wjcbmx45icygy/Poe-Dameron/</id>
+    <published>2016-01-24T07:52:07.000Z</published>
+    <updated>2016-01-24T20:52:07.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="u6CE2__u8FBE_u7F8E_u4F26"><a href="#u6CE2__u8FBE_u7F8E_u4F26" class="headerlink" title="波 达美伦"></a>波 达美伦</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
+<thead>
+<tr>
+<th></th>
+<th>1星</th>
+<th>2星</th>
+<th>3星</th>
+<th>4星</th>
+<th>5星</th>
+<th>6星</th>
+<th>7星</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>力量</td>
+<td></td>
+<td></td>
+<td>3.1</td>
+<td>3.9</td>
+<td>4.7</td>
+<td>5.4</td>
+<td>6.2</td>
+</tr>
+<tr>
+<td>敏捷</td>
+<td></td>
+<td></td>
+<td>3.5</td>
+<td>4.4</td>
+<td>5.3</td>
+<td>6.2</td>
+<td>7.1</td>
+</tr>
+<tr>
+<td>智慧</td>
+<td></td>
+<td></td>
+<td>2.2</td>
+<td>2.8</td>
+<td>3.3</td>
+<td>3.9</td>
+<td>4.4</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u82F1_u96C4_u6280_u80FD_u6982_u51B5"><a href="#u82F1_u96C4_u6280_u80FD_u6982_u51B5" class="headerlink" title="英雄技能概况"></a>英雄技能概况</h2><table>
+<thead>
+<tr>
+<th>技能</th>
+<th>类型</th>
+<th>冷却时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>挑战一击</td>
+<td>基本</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>虚张声势</td>
+<td>特殊</td>
+<td>5</td>
+</tr>
+<tr>
+<td>抵抗军王牌</td>
+<td>首领</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>坚定不移</td>
+<td>独有</td>
+<td>NA</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u6311_u6218_u4E00_u51FB"><a href="#u6280_u80FD_u2014_u6311_u6218_u4E00_u51FB" class="headerlink" title="技能—挑战一击"></a>技能—挑战一击</h2><ul>
+<li>满级效果<br>Deal physical damage to target enemy with a 40% chance to inflict Offense Down for 2 Turns.  This chance is doubled if the target is suffering any negative status effects.</li>
+<li>类型<br>基本</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 进攻下降几率</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u865A_u5F20_u58F0_u52BF"><a href="#u6280_u80FD_u2014_u865A_u5F20_u58F0_u52BF" class="headerlink" title="技能—虚张声势"></a>技能—虚张声势</h2><ul>
+<li>满级效果<br>Taunt for 2 turns and remove 25% Turn Meter from each enemy, with a 65% chance to Expose all enemies for 2 turns.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>5</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>10% 进度条减少</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 暴露几率</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 进度条减少</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 进度条减少</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>冷却时间 -1</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 进度条减少</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u62B5_u6297_u519B_u738B_u724C"><a href="#u6280_u80FD_u2014_u62B5_u6297_u519B_u738B_u724C" class="headerlink" title="技能—抵抗军王牌"></a>技能—抵抗军王牌</h2><ul>
+<li>满级效果<br>Resistance allies gain 25% Offense and 15% Potency.</li>
+<li>类型<br>首领</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+2.5% 进攻</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+5% 进攻</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% Potency</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 进攻</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% Potency</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+2.5% 进攻</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u575A_u5B9A_u4E0D_u79FB"><a href="#u6280_u80FD_u2014_u575A_u5B9A_u4E0D_u79FB" class="headerlink" title="技能—坚定不移"></a>技能—坚定不移</h2><ul>
+<li>满级效果<br>Poe has +30% Tenacity and recovers 7.5% of his Max Health whenever he resists a negative status effect.</li>
+<li>类型<br>独有</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 韧性</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>抵抗时，5% 最大生命恢复</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 韧性</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 韧性</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+2.5% 治疗</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 韧性</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="u6CE2__u8FBE_u7F8E_u4F26"><a href="#u6CE2__u8FBE_u7F8E_u4F26" class="headerlink" title="波 达美伦"></a>波 达美伦</h1><h2 id="1_7E7_u661F_u57]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[法斯码上尉]]></title>
+    <link href="http://yoursite.com/cijt0ti3m001vjcbm53i5z766/Captain-Phasma/"/>
+    <id>http://yoursite.com/cijt0ti3m001vjcbm53i5z766/Captain-Phasma/</id>
+    <published>2016-01-24T07:51:51.000Z</published>
+    <updated>2016-01-24T20:51:51.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="u6CD5_u65AF_u7801_u4E0A_u5C09"><a href="#u6CD5_u65AF_u7801_u4E0A_u5C09" class="headerlink" title="法斯码上尉"></a>法斯码上尉</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
+<thead>
+<tr>
+<th></th>
+<th>1星</th>
+<th>2星</th>
+<th>3星</th>
+<th>4星</th>
+<th>5星</th>
+<th>6星</th>
+<th>7星</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>力量</td>
+<td></td>
+<td></td>
+<td>3.5</td>
+<td>4.4</td>
+<td>5.3</td>
+<td>6.2</td>
+<td>7.1</td>
+</tr>
+<tr>
+<td>敏捷</td>
+<td></td>
+<td></td>
+<td>2.6</td>
+<td>3.3</td>
+<td>4</td>
+<td>4.7</td>
+<td>5.3</td>
+</tr>
+<tr>
+<td>智慧</td>
+<td></td>
+<td></td>
+<td>2.6</td>
+<td>3.3</td>
+<td>4</td>
+<td>4.7</td>
+<td>5.3</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u82F1_u96C4_u6280_u80FD_u6982_u51B5"><a href="#u82F1_u96C4_u6280_u80FD_u6982_u51B5" class="headerlink" title="英雄技能概况"></a>英雄技能概况</h2><table>
+<thead>
+<tr>
+<th>技能</th>
+<th>类型</th>
+<th>冷却时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>猛攻突击</td>
+<td>基本</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>胜利游行</td>
+<td>特殊</td>
+<td>5</td>
+</tr>
+<tr>
+<td>枪炮齐射</td>
+<td>特殊</td>
+<td>4</td>
+</tr>
+<tr>
+<td>自由开火</td>
+<td>首领</td>
+<td>NA</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u731B_u653B_u7A81_u51FB"><a href="#u6280_u80FD_u2014_u731B_u653B_u7A81_u51FB" class="headerlink" title="技能—猛攻突击"></a>技能—猛攻突击</h2><ul>
+<li>满级效果<br>Deal Physical Damage to target enemy.  This attack deals 65% more damage if Phasma has Advantage.</li>
+<li>类型<br>基本</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 额外伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+15% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u80DC_u5229_u6E38_u884C"><a href="#u6280_u80FD_u2014_u80DC_u5229_u6E38_u884C" class="headerlink" title="技能—胜利游行"></a>技能—胜利游行</h2><ul>
+<li>满级效果<br>All allies gain 50% Turn Meter and Advantage.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>5</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+5% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>冷却时间 -1</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 进度条获取</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u67AA_u70AE_u9F50_u5C04"><a href="#u6280_u80FD_u2014_u67AA_u70AE_u9F50_u5C04" class="headerlink" title="技能—枪炮齐射"></a>技能—枪炮齐射</h2><ul>
+<li>满级效果<br>Deal Physical damage to all enemies with a 75% chance to inflict Speed Down for 2 Turns.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>4</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+15% 速度 下降几率</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u81EA_u7531_u5F00_u706B"><a href="#u6280_u80FD_u2014_u81EA_u7531_u5F00_u706B" class="headerlink" title="技能—自由开火"></a>技能—自由开火</h2><ul>
+<li>满级效果<br>Whenever an ally attacks, they have a 18% chance to call a random ally to Assist, dealing 15% less damage.  This chance is doubled if the attacking ally is First Order.</li>
+<li>类型<br>首领</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+2% 助攻几率</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+2% 助攻几率</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>-15% 伤害 刺穿</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+2% 助攻几率</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+2% 助攻几率</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+2% 助攻几率</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="u6CD5_u65AF_u7801_u4E0A_u5C09"><a href="#u6CD5_u65AF_u7801_u4E0A_u5C09" class="headerlink" title="法斯码上尉"></a>法斯码上尉</h1><h2 id="1_7E7]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[费恩]]></title>
+    <link href="http://yoursite.com/cijt0t204001ujcbmut30n4dd/Finn/"/>
+    <id>http://yoursite.com/cijt0t204001ujcbmut30n4dd/Finn/</id>
+    <published>2016-01-24T07:51:32.000Z</published>
+    <updated>2016-01-24T20:51:32.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="u8D39_u6069"><a href="#u8D39_u6069" class="headerlink" title="费恩"></a>费恩</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
+<thead>
+<tr>
+<th></th>
+<th>1星</th>
+<th>2星</th>
+<th>3星</th>
+<th>4星</th>
+<th>5星</th>
+<th>6星</th>
+<th>7星</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>力量</td>
+<td></td>
+<td></td>
+<td></td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+</tr>
+<tr>
+<td>敏捷</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3.3</td>
+<td>4</td>
+<td>4.6</td>
+<td>5.3</td>
+</tr>
+<tr>
+<td>智慧</td>
+<td></td>
+<td></td>
+<td></td>
+<td>2.7</td>
+<td>3.3</td>
+<td>3.9</td>
+<td>4.4</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u82F1_u96C4_u6280_u80FD_u6982_u51B5"><a href="#u82F1_u96C4_u6280_u80FD_u6982_u51B5" class="headerlink" title="英雄技能概况"></a>英雄技能概况</h2><table>
+<thead>
+<tr>
+<th>技能</th>
+<th>类型</th>
+<th>冷却时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>优秀射手</td>
+<td>基本</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>守住防线</td>
+<td>特殊</td>
+<td>5</td>
+</tr>
+<tr>
+<td>一击必倒</td>
+<td>特殊</td>
+<td>3</td>
+</tr>
+<tr>
+<td>均衡战术</td>
+<td>首领</td>
+<td>NA</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u4F18_u79C0_u5C04_u624B"><a href="#u6280_u80FD_u2014_u4F18_u79C0_u5C04_u624B" class="headerlink" title="技能—优秀射手"></a>技能—优秀射手</h2><ul>
+<li>满级效果<br>Deal Physical damage to target enemy. This attack deals 65% more damage to enemies that haven’t already been struck by it.</li>
+<li>类型<br>基本</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+25% 额外伤害</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u5B88_u4F4F_u9632_u7EBF"><a href="#u6280_u80FD_u2014_u5B88_u4F4F_u9632_u7EBF" class="headerlink" title="技能—守住防线"></a>技能—守住防线</h2><ul>
+<li>满级效果<br>Finn gains Advantage and Defense Up for 2 turns. In addition, he recovers 10% of his Max Health at the start of his next 2 Turns.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>5</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>6% 治疗，持续 2 回合s</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+1% 治疗</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+1% 治疗</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>冷却时间 -1</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+1% 治疗</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+1% 治疗</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u4E00_u51FB_u5FC5_u5012"><a href="#u6280_u80FD_u2014_u4E00_u51FB_u5FC5_u5012" class="headerlink" title="技能—一击必倒"></a>技能—一击必倒</h2><ul>
+<li>满级效果<br>Deal Physical damage to target enemy with a 85% chance to Expose them for 2 turns and a 65% chance to Stun them for 1 Turn.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>3</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 眩晕几率</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+15% 暴露几率</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u5747_u8861_u6218_u672F"><a href="#u6280_u80FD_u2014_u5747_u8861_u6218_u672F" class="headerlink" title="技能—均衡战术"></a>技能—均衡战术</h2><ul>
+<li>满级效果<br>Resistance allies gain 22% Offense and 35 Defense, and other allies gain half that amount.</li>
+<li>类型<br>首领</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+3% 进攻</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+3% 进攻</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+15 防御</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+3% 进攻</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+3% 进攻</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+3% 进攻</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="u8D39_u6069"><a href="#u8D39_u6069" class="headerlink" title="费恩"></a>费恩</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[凯洛 伦]]></title>
+    <link href="http://yoursite.com/cijt0iwnq001tjcbmpkd650tv/Kylo-Ren/"/>
+    <id>http://yoursite.com/cijt0iwnq001tjcbmpkd650tv/Kylo-Ren/</id>
+    <published>2016-01-24T07:51:20.000Z</published>
+    <updated>2016-01-24T20:51:20.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="u51EF_u6D1B__u4F26"><a href="#u51EF_u6D1B__u4F26" class="headerlink" title="凯洛 伦"></a>凯洛 伦</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
+<thead>
+<tr>
+<th></th>
+<th>1星</th>
+<th>2星</th>
+<th>3星</th>
+<th>4星</th>
+<th>5星</th>
+<th>6星</th>
+<th>7星</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>力量</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+</tr>
+<tr>
+<td>敏捷</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>3.3</td>
+<td>4</td>
+<td>4.6</td>
+<td>5.3</td>
+</tr>
+<tr>
+<td>智慧</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+<td>2.7</td>
+<td>3.3</td>
+<td>3.9</td>
+<td>4.4</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u82F1_u96C4_u6280_u80FD_u6982_u51B5"><a href="#u82F1_u96C4_u6280_u80FD_u6982_u51B5" class="headerlink" title="英雄技能概况"></a>英雄技能概况</h2><table>
+<thead>
+<tr>
+<th>技能</th>
+<th>类型</th>
+<th>冷却时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>深度砍伤</td>
+<td>基本</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>急速猛攻</td>
+<td>特殊</td>
+<td>4</td>
+</tr>
+<tr>
+<td>狂暴打击</td>
+<td>特殊</td>
+<td>3</td>
+</tr>
+<tr>
+<td>势不可挡</td>
+<td>独有</td>
+<td>NA</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u6DF1_u5EA6_u780D_u4F24"><a href="#u6280_u80FD_u2014_u6DF1_u5EA6_u780D_u4F24" class="headerlink" title="技能—深度砍伤"></a>技能—深度砍伤</h2><ul>
+<li>满级效果<br>Deal Physical damage to target enemy with a 55% chance to inflict Healing Immunity for 1 turn and a 75% chance to inflict Damage Over Time for 2 turns.</li>
+<li>类型<br>基本</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 治疗 免疫 几率</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+15% 伤害</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u6025_u901F_u731B_u653B"><a href="#u6280_u80FD_u2014_u6025_u901F_u731B_u653B" class="headerlink" title="技能—急速猛攻"></a>技能—急速猛攻</h2><ul>
+<li>满级效果<br>Deal Physical damage to all enemies and gain Retribution for 1 Turn.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>4</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+15% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u72C2_u66B4_u6253_u51FB"><a href="#u6280_u80FD_u2014_u72C2_u66B4_u6253_u51FB" class="headerlink" title="技能—狂暴打击"></a>技能—狂暴打击</h2><ul>
+<li>满级效果<br>Deal Physical damage to target enemy. This attack deals 75% more damage if Kylo is below 50% Health.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>3</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+25% 额外伤害</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u52BF_u4E0D_u53EF_u6321"><a href="#u6280_u80FD_u2014_u52BF_u4E0D_u53EF_u6321" class="headerlink" title="技能—势不可挡"></a>技能—势不可挡</h2><ul>
+<li>满级效果<br>Kylo has a 45% chance to reset his cooldowns whenever he is damaged.</li>
+<li>类型<br>独有</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+3% 冷却时间 重置几率</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+3% 冷却时间 重置几率</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 冷却时间 重置几率</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+3% 冷却时间 重置几率</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+3% 冷却时间 重置几率</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+3% 冷却时间 重置几率</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="u51EF_u6D1B__u4F26"><a href="#u51EF_u6D1B__u4F26" class="headerlink" title="凯洛 伦"></a>凯洛 伦</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[反抗军士兵]]></title>
+    <link href="http://yoursite.com/cijt0iu5u001sjcbmrun3vq34/Resistance-Trooper/"/>
+    <id>http://yoursite.com/cijt0iu5u001sjcbmrun3vq34/Resistance-Trooper/</id>
+    <published>2016-01-24T07:51:16.000Z</published>
+    <updated>2016-01-24T20:51:16.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="u53CD_u6297_u519B_u58EB_u5175"><a href="#u53CD_u6297_u519B_u58EB_u5175" class="headerlink" title="反抗军士兵"></a>反抗军士兵</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
+<thead>
+<tr>
+<th></th>
+<th>1星</th>
+<th>2星</th>
+<th>3星</th>
+<th>4星</th>
+<th>5星</th>
+<th>6星</th>
+<th>7星</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>力量</td>
+<td>1.3</td>
+<td>2</td>
+<td>2.7</td>
+<td>3.4</td>
+<td>4.1</td>
+<td>4.8</td>
+<td>5.5</td>
+</tr>
+<tr>
+<td>敏捷</td>
+<td>2</td>
+<td>3.1</td>
+<td>4.1</td>
+<td>5.2</td>
+<td>6.2</td>
+<td>7.3</td>
+<td>8.3</td>
+</tr>
+<tr>
+<td>智慧</td>
+<td>1.1</td>
+<td>1.7</td>
+<td>2.3</td>
+<td>2.9</td>
+<td>3.4</td>
+<td>4</td>
+<td>4.6</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u82F1_u96C4_u6280_u80FD_u6982_u51B5"><a href="#u82F1_u96C4_u6280_u80FD_u6982_u51B5" class="headerlink" title="英雄技能概况"></a>英雄技能概况</h2><table>
+<thead>
+<tr>
+<th>技能</th>
+<th>类型</th>
+<th>冷却时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>驱赶</td>
+<td>基本</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>机敏打击</td>
+<td>特殊</td>
+<td>4</td>
+</tr>
+<tr>
+<td>游击战术</td>
+<td>独有</td>
+<td>NA</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u9A71_u8D76"><a href="#u6280_u80FD_u2014_u9A71_u8D76" class="headerlink" title="技能—驱赶"></a>技能—驱赶</h2><ul>
+<li>满级效果<br>Deal Physical damage to target enemy with a 50% chance to Expose them for 3 turns.</li>
+<li>类型<br>基本</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 暴露几率</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+15% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u673A_u654F_u6253_u51FB"><a href="#u6280_u80FD_u2014_u673A_u654F_u6253_u51FB" class="headerlink" title="技能—机敏打击"></a>技能—机敏打击</h2><ul>
+<li>满级效果<br>Deal Physical damage to target enemy with a 50% chance of inflicting Speed Down for 2 turns. This ability’s cooldown is reduced by 2 if the target is suffering any negative status effects.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>4</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+15% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>50% 几率 施加 速度 减弱 ，持续 2 回合 ,命中时</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u6E38_u51FB_u6218_u672F"><a href="#u6280_u80FD_u2014_u6E38_u51FB_u6218_u672F" class="headerlink" title="技能—游击战术"></a>技能—游击战术</h2><ul>
+<li>满级效果<br>Resistance Trooper has +10% Potency and gains 50% Turn Meter whenever an enemy becomes Exposed.</li>
+<li>类型<br>独有</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+5% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>10% Potency</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 进度条获取</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="u53CD_u6297_u519B_u58EB_u5175"><a href="#u53CD_u6297_u519B_u58EB_u5175" class="headerlink" title="反抗军士兵"></a>反抗军士兵</h1><h2 id="1_7E7]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[反抗军飞行员]]></title>
+    <link href="http://yoursite.com/cijsz9ek9001rjcbmhtoyhsml/Resistance-Pilot/"/>
+    <id>http://yoursite.com/cijsz9ek9001rjcbmhtoyhsml/Resistance-Pilot/</id>
+    <published>2016-01-24T07:51:10.000Z</published>
+    <updated>2016-01-24T20:51:10.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="u53CD_u6297_u519B_u98DE_u884C_u5458"><a href="#u53CD_u6297_u519B_u98DE_u884C_u5458" class="headerlink" title="反抗军飞行员"></a>反抗军飞行员</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
+<thead>
+<tr>
+<th></th>
+<th>1星</th>
+<th>2星</th>
+<th>3星</th>
+<th>4星</th>
+<th>5星</th>
+<th>6星</th>
+<th>7星</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>力量</td>
+<td>1.3</td>
+<td>2</td>
+<td>2.7</td>
+<td>3.4</td>
+<td>4.1</td>
+<td>4.8</td>
+<td>5.5</td>
+</tr>
+<tr>
+<td>敏捷</td>
+<td>2</td>
+<td>3.1</td>
+<td>4.1</td>
+<td>5.1</td>
+<td>6.2</td>
+<td>7.2</td>
+<td>8.2</td>
+</tr>
+<tr>
+<td>智慧</td>
+<td>1.1</td>
+<td>1.7</td>
+<td>2.3</td>
+<td>2.8</td>
+<td>3.4</td>
+<td>4</td>
+<td>4.6</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u82F1_u96C4_u6280_u80FD_u6982_u51B5"><a href="#u82F1_u96C4_u6280_u80FD_u6982_u51B5" class="headerlink" title="英雄技能概况"></a>英雄技能概况</h2><table>
+<thead>
+<tr>
+<th>技能</th>
+<th>类型</th>
+<th>冷却时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>腰射</td>
+<td>基本</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>过人机动</td>
+<td>特殊</td>
+<td>4</td>
+</tr>
+<tr>
+<td>游击战术</td>
+<td>独有</td>
+<td>NA</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u8170_u5C04"><a href="#u6280_u80FD_u2014_u8170_u5C04" class="headerlink" title="技能—腰射"></a>技能—腰射</h2><ul>
+<li>满级效果<br>Deal Physical damage to target enemy with a 55% chance to gain 20% Turn Meter.</li>
+<li>类型<br>基本</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 进度条获取几率</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+15% 伤害</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u8FC7_u4EBA_u673A_u52A8"><a href="#u6280_u80FD_u2014_u8FC7_u4EBA_u673A_u52A8" class="headerlink" title="技能—过人机动"></a>技能—过人机动</h2><ul>
+<li>满级效果<br>Deal Physical damage to target enemy with a 50% chance to Expose them for 2 turns and a 65% chance to gain Foresight for 2 turns.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>4</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 洞察几率</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>冷却时间 -1</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u6E38_u51FB_u6218_u672F"><a href="#u6280_u80FD_u2014_u6E38_u51FB_u6218_u672F" class="headerlink" title="技能—游击战术"></a>技能—游击战术</h2><ul>
+<li>满级效果<br>Resistance Pilot has +5% Critical Chance and +5% Evasion, and gains 22.5% Turn Meter whenever they Evade or score a Critical Hit.</li>
+<li>类型<br>独有</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+2.5% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+2.5% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>5% 暴击率</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+2.5% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>5% 闪避</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+2.5% 进度条获取</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="u53CD_u6297_u519B_u98DE_u884C_u5458"><a href="#u53CD_u6297_u519B_u98DE_u884C_u5458" class="headerlink" title="反抗军飞行员"></a>反抗军飞行员</h1]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[第一教团钛合金飞行员]]></title>
+    <link href="http://yoursite.com/cijsz9025001qjcbm1x4vxjf7/First-Order-TIE-Pilot/"/>
+    <id>http://yoursite.com/cijsz9025001qjcbm1x4vxjf7/First-Order-TIE-Pilot/</id>
+    <published>2016-01-24T07:51:05.000Z</published>
+    <updated>2016-01-24T20:51:05.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="u7B2C_u4E00_u6559_u56E2_u949B_u5408_u91D1_u98DE_u884C_u5458"><a href="#u7B2C_u4E00_u6559_u56E2_u949B_u5408_u91D1_u98DE_u884C_u5458" class="headerlink" title="第一教团钛合金飞行员"></a>第一教团钛合金飞行员</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
+<thead>
+<tr>
+<th></th>
+<th>1星</th>
+<th>2星</th>
+<th>3星</th>
+<th>4星</th>
+<th>5星</th>
+<th>6星</th>
+<th>7星</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>力量</td>
+<td>1.3</td>
+<td>2</td>
+<td>2.7</td>
+<td>3.4</td>
+<td>4.1</td>
+<td>4.7</td>
+<td>8</td>
+</tr>
+<tr>
+<td>敏捷</td>
+<td>2</td>
+<td>3</td>
+<td>4.1</td>
+<td>5.1</td>
+<td>6.1</td>
+<td>7.1</td>
+<td>5.3</td>
+</tr>
+<tr>
+<td>智慧</td>
+<td>1.1</td>
+<td>1.7</td>
+<td>2.2</td>
+<td>2.8</td>
+<td>3.4</td>
+<td>3.9</td>
+<td>4.4</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u82F1_u96C4_u6280_u80FD_u6982_u51B5"><a href="#u82F1_u96C4_u6280_u80FD_u6982_u51B5" class="headerlink" title="英雄技能概况"></a>英雄技能概况</h2><table>
+<thead>
+<tr>
+<th>技能</th>
+<th>类型</th>
+<th>冷却时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>双连射</td>
+<td>基本</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>炮轰</td>
+<td>特殊</td>
+<td>4</td>
+</tr>
+<tr>
+<td>敏锐目光</td>
+<td>独有</td>
+<td>NA</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u53CC_u8FDE_u5C04"><a href="#u6280_u80FD_u2014_u53CC_u8FDE_u5C04" class="headerlink" title="技能—双连射"></a>技能—双连射</h2><ul>
+<li>满级效果<br>Deal physical damage to target enemy with a 45% chance to attack again. This chance is doubled if First Order Pilot has advantage.</li>
+<li>类型<br>基本</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+15% 多次攻击几率</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u70AE_u8F70"><a href="#u6280_u80FD_u2014_u70AE_u8F70" class="headerlink" title="技能—炮轰"></a>技能—炮轰</h2><ul>
+<li>满级效果<br>Deal physical damage to target enemy with an additional 40% chance of a critical hit. This chance is doubled if First Order Pilot has advantage.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>4</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+15% 暴击率</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+15% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u654F_u9510_u76EE_u5149"><a href="#u6280_u80FD_u2014_u654F_u9510_u76EE_u5149" class="headerlink" title="技能—敏锐目光"></a>技能—敏锐目光</h2><ul>
+<li>满级效果<br>First Order Pilot has a +12.5% Critical Chance and +20% Critical Damage, and gains advantage for 3 turns whenever an enemy falls below 50% health</li>
+<li>类型<br>独有</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+2.5% 暴击率</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+5% 暴击伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+2.5% 暴击率</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 暴击伤害</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+2.5% 暴击率</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+2.5% 暴击率</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="u7B2C_u4E00_u6559_u56E2_u949B_u5408_u91D1_u98DE_u884C_u5458"><a href="#u7B2C_u4E00_u6559_u56E2_u949B_u5408_u91D1_u98DE_u884C_u5458" ]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[第一教团风暴兵]]></title>
+    <link href="http://yoursite.com/cijsz8uet001pjcbmiixygilk/First-Order-Stormtrooper/"/>
+    <id>http://yoursite.com/cijsz8uet001pjcbmiixygilk/First-Order-Stormtrooper/</id>
+    <published>2016-01-24T07:50:58.000Z</published>
+    <updated>2016-01-24T20:50:58.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="u7B2C_u4E00_u6559_u56E2_u98CE_u66B4_u5175"><a href="#u7B2C_u4E00_u6559_u56E2_u98CE_u66B4_u5175" class="headerlink" title="第一教团风暴兵"></a>第一教团风暴兵</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
+<thead>
+<tr>
+<th></th>
+<th>1星</th>
+<th>2星</th>
+<th>3星</th>
+<th>4星</th>
+<th>5星</th>
+<th>6星</th>
+<th>7星</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>力量</td>
+<td></td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+</tr>
+<tr>
+<td>敏捷</td>
+<td></td>
+<td>2</td>
+<td>2.6</td>
+<td>3.3</td>
+<td>4</td>
+<td>4.6</td>
+<td>5.3</td>
+</tr>
+<tr>
+<td>智慧</td>
+<td></td>
+<td>1.6</td>
+<td>2.2</td>
+<td>2.7</td>
+<td>3.3</td>
+<td>3.9</td>
+<td>4.4</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u82F1_u96C4_u6280_u80FD_u6982_u51B5"><a href="#u82F1_u96C4_u6280_u80FD_u6982_u51B5" class="headerlink" title="英雄技能概况"></a>英雄技能概况</h2><table>
+<thead>
+<tr>
+<th>技能</th>
+<th>类型</th>
+<th>冷却时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>阻碍射击</td>
+<td>基本</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>无情教义</td>
+<td>特殊</td>
+<td>4</td>
+</tr>
+<tr>
+<td>还击</td>
+<td>独有</td>
+<td>NA</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u963B_u788D_u5C04_u51FB"><a href="#u6280_u80FD_u2014_u963B_u788D_u5C04_u51FB" class="headerlink" title="技能—阻碍射击"></a>技能—阻碍射击</h2><ul>
+<li>满级效果<br>Deal Physical damage to target enemy with a 45% chance to inflict Speed Down for 1 turn.  This chance is doubled if First Order Stormtrooper has Advantage.</li>
+<li>类型<br>基本</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+15% 速度 下降几率</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u65E0_u60C5_u6559_u4E49"><a href="#u6280_u80FD_u2014_u65E0_u60C5_u6559_u4E49" class="headerlink" title="技能—无情教义"></a>技能—无情教义</h2><ul>
+<li>满级效果<br>First Order Stormtrooper gains Advantage and Defense Up for 3 turns with a 25% chance to gain 40% Turn Meter.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>4</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>25% 几率 获得 25% 进度条</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+5% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>防御 提升持续 +1</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>优势持续 +1</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 进度条获取</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u8FD8_u51FB"><a href="#u6280_u80FD_u2014_u8FD8_u51FB" class="headerlink" title="技能—还击"></a>技能—还击</h2><ul>
+<li>满级效果<br>First Order Stormtrooper has 60% Counter Chance.</li>
+<li>类型<br>独有</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 反击几率</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+5% 反击几率</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+15% 反击几率</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 反击几率</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 反击几率</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 反击几率</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="u7B2C_u4E00_u6559_u56E2_u98CE_u66B4_u5175"><a href="#u7B2C_u4E00_u6559_u56E2_u98CE_u66B4_u5175" class="headerlink" title="第一教团风暴兵"><]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[兰多 卡瑞辛]]></title>
+    <link href="http://yoursite.com/cijsz8pxg001ojcbmbvdcmm2z/Lando-Calrissian/"/>
+    <id>http://yoursite.com/cijsz8pxg001ojcbmbvdcmm2z/Lando-Calrissian/</id>
+    <published>2016-01-24T07:50:53.000Z</published>
+    <updated>2016-01-24T20:50:53.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="u5170_u591A__u5361_u745E_u8F9B"><a href="#u5170_u591A__u5361_u745E_u8F9B" class="headerlink" title="兰多 卡瑞辛"></a>兰多 卡瑞辛</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
+<thead>
+<tr>
+<th></th>
+<th>1星</th>
+<th>2星</th>
+<th>3星</th>
+<th>4星</th>
+<th>5星</th>
+<th>6星</th>
+<th>7星</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>力量</td>
+<td>1.3</td>
+<td></td>
+<td></td>
+<td>3.3</td>
+<td>4</td>
+<td>4.6</td>
+<td>5.3</td>
+</tr>
+<tr>
+<td>敏捷</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+</tr>
+<tr>
+<td>智慧</td>
+<td>1.1</td>
+<td></td>
+<td></td>
+<td>2.7</td>
+<td>3.3</td>
+<td>3.9</td>
+<td>4.4</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u82F1_u96C4_u6280_u80FD_u6982_u51B5"><a href="#u82F1_u96C4_u6280_u80FD_u6982_u51B5" class="headerlink" title="英雄技能概况"></a>英雄技能概况</h2><table>
+<thead>
+<tr>
+<th>技能</th>
+<th>类型</th>
+<th>冷却时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>冒险设计</td>
+<td>基本</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>双重绞杀</td>
+<td>特殊</td>
+<td>4</td>
+</tr>
+<tr>
+<td>朝三暮四</td>
+<td>首领</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>狂赌徒</td>
+<td>独有</td>
+<td>NA</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u5192_u9669_u8BBE_u8BA1"><a href="#u6280_u80FD_u2014_u5192_u9669_u8BBE_u8BA1" class="headerlink" title="技能—冒险设计"></a>技能—冒险设计</h2><ul>
+<li>满级效果<br>Deal Physical damage to target enemy.  This attack has high damage variance and an additional 25% chance of scoring a Critical Hit.</li>
+<li>类型<br>基本</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+10% 最大 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+5% 暴击率</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+10% 最大 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 暴击率</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+10% 最大 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+10% 最大 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u53CC_u91CD_u7EDE_u6740"><a href="#u6280_u80FD_u2014_u53CC_u91CD_u7EDE_u6740" class="headerlink" title="技能—双重绞杀"></a>技能—双重绞杀</h2><ul>
+<li>满级效果<br>Deal Physical Damage to all enemies.  If this attack scores more than one Critical Hit, its cooldown is reset and it deals 75% more damage on its next use.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>4</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+25% 额外伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>冷却时间 -1</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u671D_u4E09_u66AE_u56DB"><a href="#u6280_u80FD_u2014_u671D_u4E09_u66AE_u56DB" class="headerlink" title="技能—朝三暮四"></a>技能—朝三暮四</h2><ul>
+<li>满级效果<br>Scoundrel allies gain 13 Speed and 29% Critical Damage.</li>
+<li>类型<br>首领</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+2 速度</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+4% 暴击 伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+2 速度</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+2 速度</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+4% 暴击 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+2 速度</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u72C2_u8D4C_u5F92"><a href="#u6280_u80FD_u2014_u72C2_u8D4C_u5F92" class="headerlink" title="技能—狂赌徒"></a>技能—狂赌徒</h2><ul>
+<li>满级效果<br>Lando has +13% Critical Chance, and gains Critical Chance Up for 2 turns when he scores a Critical Hit.</li>
+<li>类型<br>独有</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+2% 暴击率</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+2% 暴击率</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>暴击率 提升持续 +1</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+2% 暴击率</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+2% 暴击率</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+2% 暴击率</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="u5170_u591A__u5361_u745E_u8F9B"><a href="#u5170_u591A__u5361_u745E_u8F9B" class="headerlink" title="兰多 卡瑞辛"></a>兰多 卡瑞辛</h1><h2 id="1]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[绝地武士安纳金]]></title>
+    <link href="http://yoursite.com/cijsz8kbd001njcbm6lqacow6/Jedi-Knight-Anakin/"/>
+    <id>http://yoursite.com/cijsz8kbd001njcbm6lqacow6/Jedi-Knight-Anakin/</id>
+    <published>2016-01-24T07:50:47.000Z</published>
+    <updated>2016-01-24T20:50:47.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="u7EDD_u5730_u6B66_u58EB_u5B89_u7EB3_u91D1"><a href="#u7EDD_u5730_u6B66_u58EB_u5B89_u7EB3_u91D1" class="headerlink" title="绝地武士安纳金"></a>绝地武士安纳金</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
+<thead>
+<tr>
+<th></th>
+<th>1星</th>
+<th>2星</th>
+<th>3星</th>
+<th>4星</th>
+<th>5星</th>
+<th>6星</th>
+<th>7星</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>力量</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+</tr>
+<tr>
+<td>敏捷</td>
+<td>1.3</td>
+<td></td>
+<td></td>
+<td>3.3</td>
+<td>4</td>
+<td>4.6</td>
+<td>5.3</td>
+</tr>
+<tr>
+<td>智慧</td>
+<td>1.1</td>
+<td></td>
+<td></td>
+<td>2.7</td>
+<td>3.3</td>
+<td>3.8</td>
+<td>4.4</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u82F1_u96C4_u6280_u80FD_u6982_u51B5"><a href="#u82F1_u96C4_u6280_u80FD_u6982_u51B5" class="headerlink" title="英雄技能概况"></a>英雄技能概况</h2><table>
+<thead>
+<tr>
+<th>技能</th>
+<th>类型</th>
+<th>冷却时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>灵巧剑术</td>
+<td>基本</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>重击</td>
+<td>特殊</td>
+<td>3</td>
+</tr>
+<tr>
+<td>身先士卒</td>
+<td>首领</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>正义之怒</td>
+<td>独有</td>
+<td>NA</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u7075_u5DE7_u5251_u672F"><a href="#u6280_u80FD_u2014_u7075_u5DE7_u5251_u672F" class="headerlink" title="技能—灵巧剑术"></a>技能—灵巧剑术</h2><ul>
+<li>满级效果<br>Deal Physical damage to target enemy with a 40% chance to inflict Healing and Buff Immunity for 2 turns.</li>
+<li>类型<br>基本</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 治疗和增益免疫 几率</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+15% 伤害</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u91CD_u51FB"><a href="#u6280_u80FD_u2014_u91CD_u51FB" class="headerlink" title="技能—重击"></a>技能—重击</h2><ul>
+<li>满级效果<br>Deal Physical damage to all enemies and grant allies Offense Up for 2 turns if an enemy is killed.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>3</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+15% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+15% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u8EAB_u5148_u58EB_u5352"><a href="#u6280_u80FD_u2014_u8EAB_u5148_u58EB_u5352" class="headerlink" title="技能—身先士卒"></a>技能—身先士卒</h2><ul>
+<li>满级效果<br>Jedi allies gain 24% Offense.</li>
+<li>类型<br>首领</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+2% 进攻</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+4% 进攻</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+2% 进攻</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+2% 进攻</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+4% 进攻</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+2% 进攻</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u6B63_u4E49_u4E4B_u6012"><a href="#u6280_u80FD_u2014_u6B63_u4E49_u4E4B_u6012" class="headerlink" title="技能—正义之怒"></a>技能—正义之怒</h2><ul>
+<li>满级效果<br>Whenever an ally is defeated, Anakin gains 90% Turn Meter and his next attack deals 50% more damage.</li>
+<li>类型<br>独有</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+10% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+25% 伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+10% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+10% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+10% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+10% 进度条获取</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="u7EDD_u5730_u6B66_u58EB_u5B89_u7EB3_u91D1"><a href="#u7EDD_u5730_u6B66_u58EB_u5B89_u7EB3_u91D1" class="headerlink" title="绝地武士安纳金"><]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[卢克 天行者]]></title>
+    <link href="http://yoursite.com/cijsz8f2x001mjcbm54klo0gj/Luke-Skywalker/"/>
+    <id>http://yoursite.com/cijsz8f2x001mjcbm54klo0gj/Luke-Skywalker/</id>
+    <published>2016-01-24T07:50:40.000Z</published>
+    <updated>2016-01-24T20:50:40.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="u5362_u514B__u5929_u884C_u8005"><a href="#u5362_u514B__u5929_u884C_u8005" class="headerlink" title="卢克 天行者"></a>卢克 天行者</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
+<thead>
+<tr>
+<th></th>
+<th>1星</th>
+<th>2星</th>
+<th>3星</th>
+<th>4星</th>
+<th>5星</th>
+<th>6星</th>
+<th>7星</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>力量</td>
+<td>1.3</td>
+<td></td>
+<td>2.6</td>
+<td>3.3</td>
+<td>4</td>
+<td>4.6</td>
+<td>5.3</td>
+</tr>
+<tr>
+<td>敏捷</td>
+<td>2</td>
+<td></td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+</tr>
+<tr>
+<td>智慧</td>
+<td>1.1</td>
+<td></td>
+<td>2.2</td>
+<td>2.7</td>
+<td>3.3</td>
+<td>3.9</td>
+<td>4.4</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u82F1_u96C4_u6280_u80FD_u6982_u51B5"><a href="#u82F1_u96C4_u6280_u80FD_u6982_u51B5" class="headerlink" title="英雄技能概况"></a>英雄技能概况</h2><table>
+<thead>
+<tr>
+<th>技能</th>
+<th>类型</th>
+<th>冷却时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>前线神射手</td>
+<td>基本</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>神射手</td>
+<td>特殊</td>
+<td>4</td>
+</tr>
+<tr>
+<td>新的希望</td>
+<td>首领</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>炮火瞄准</td>
+<td>独有</td>
+<td>NA</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u524D_u7EBF_u795E_u5C04_u624B"><a href="#u6280_u80FD_u2014_u524D_u7EBF_u795E_u5C04_u624B" class="headerlink" title="技能—前线神射手"></a>技能—前线神射手</h2><ul>
+<li>满级效果<br>Deal Physical Damage to target enemy.  If this attack scores a Critical Hit, gain 30% Turn Meter and inflict Damage Over Time for 3 Turns.</li>
+<li>类型<br>基本</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>暴击时，+20% 进度条 on 暴击</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+10% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u795E_u5C04_u624B"><a href="#u6280_u80FD_u2014_u795E_u5C04_u624B" class="headerlink" title="技能—神射手"></a>技能—神射手</h2><ul>
+<li>满级效果<br>Deal Physical damage to target enemy.  If this attack scores a Critical hit, Stun them for 1 turn and inflict Defense Down for 2 turns.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>4</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>防御 减弱 2回合, 暴击时</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+15% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u65B0_u7684_u5E0C_u671B"><a href="#u6280_u80FD_u2014_u65B0_u7684_u5E0C_u671B" class="headerlink" title="技能—新的希望"></a>技能—新的希望</h2><ul>
+<li>满级效果<br>All allies gain 41% Tenacity.</li>
+<li>类型<br>首领</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+4% 韧性</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+4% 韧性</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+10% 韧性</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+4% 韧性</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+4% 韧性</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+4% 韧性</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u70AE_u706B_u7784_u51C6"><a href="#u6280_u80FD_u2014_u70AE_u706B_u7784_u51C6" class="headerlink" title="技能—炮火瞄准"></a>技能—炮火瞄准</h2><ul>
+<li>满级效果<br>Luke has a 32% chance to gain Critical Chance Up for 2 turns at the start of each of his turns.</li>
+<li>类型<br>独有</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+2% 暴击率 提升 几率</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+6% 暴击率 提升 几率</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+2% 暴击率 提升 几率</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>暴击率 提升持续 +1</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+2% 暴击率 提升 几率</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+2% 暴击率 提升 几率</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="u5362_u514B__u5929_u884C_u8005"><a href="#u5362_u514B__u5929_u884C_u8005" class="headerlink" title="卢克 天行者"></a>卢克 天行者</h1><h2 id="1]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[风暴兵汉]]></title>
+    <link href="http://yoursite.com/cijsz8boe001ljcbmmv8x19nj/Stormtrooper-Han/"/>
+    <id>http://yoursite.com/cijsz8boe001ljcbmmv8x19nj/Stormtrooper-Han/</id>
+    <published>2016-01-24T07:50:35.000Z</published>
+    <updated>2016-01-24T20:50:35.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="u98CE_u66B4_u5175_u6C49"><a href="#u98CE_u66B4_u5175_u6C49" class="headerlink" title="风暴兵汉"></a>风暴兵汉</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
+<thead>
+<tr>
+<th></th>
+<th>1星</th>
+<th>2星</th>
+<th>3星</th>
+<th>4星</th>
+<th>5星</th>
+<th>6星</th>
+<th>7星</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>力量</td>
+<td>1.3</td>
+<td></td>
+<td>2.7</td>
+<td>3.3</td>
+<td>4</td>
+<td>4.7</td>
+<td>5.4</td>
+</tr>
+<tr>
+<td>敏捷</td>
+<td>1.8</td>
+<td></td>
+<td>3.6</td>
+<td>4.5</td>
+<td>5.4</td>
+<td>6.3</td>
+<td>7.2</td>
+</tr>
+<tr>
+<td>智慧</td>
+<td>1.3</td>
+<td></td>
+<td>2.7</td>
+<td>3.3</td>
+<td>4</td>
+<td>4.7</td>
+<td>5.4</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u82F1_u96C4_u6280_u80FD_u6982_u51B5"><a href="#u82F1_u96C4_u6280_u80FD_u6982_u51B5" class="headerlink" title="英雄技能概况"></a>英雄技能概况</h2><table>
+<thead>
+<tr>
+<th>技能</th>
+<th>类型</th>
+<th>冷却时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>机警射击</td>
+<td>基本</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>吸引火力</td>
+<td>特殊</td>
+<td>6</td>
+</tr>
+<tr>
+<td>B计划</td>
+<td>首领</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>虚张声势</td>
+<td>独有</td>
+<td>NA</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u673A_u8B66_u5C04_u51FB"><a href="#u6280_u80FD_u2014_u673A_u8B66_u5C04_u51FB" class="headerlink" title="技能—机警射击"></a>技能—机警射击</h2><ul>
+<li>满级效果<br>Deal Physical Damage to target enemy with a 40% chance to gain 35% Turn Meter. This attack has high damage variance.</li>
+<li>类型<br>基本</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+10% 最大 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 进度条获取几率</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+10% 最大 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+15% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+10% 最大 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+10% 最大 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u5438_u5F15_u706B_u529B"><a href="#u6280_u80FD_u2014_u5438_u5F15_u706B_u529B" class="headerlink" title="技能—吸引火力"></a>技能—吸引火力</h2><ul>
+<li>满级效果<br>Han taunts for 3 turns, and all other allies gain 30% Turn Meter. In addition, all other allies gain 20% Turn Meter when Han is damaged.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>6</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+2.5% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>汗收到攻击时，友军获得20% 进度条</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+2.5% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+1 嘲讽持续</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+2.5% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+2.5% 进度条获取</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014B_u8BA1_u5212"><a href="#u6280_u80FD_u2014B_u8BA1_u5212" class="headerlink" title="技能—B计划"></a>技能—B计划</h2><ul>
+<li>满级效果<br>All allies gain 35 Defense while above 50% Health and 30% Offense while below 50% health.</li>
+<li>类型<br>首领</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 防御</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+5% 进攻</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5 防御</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 进攻</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5 防御</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 进攻</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u865A_u5F20_u58F0_u52BF"><a href="#u6280_u80FD_u2014_u865A_u5F20_u58F0_u52BF" class="headerlink" title="技能—虚张声势"></a>技能—虚张声势</h2><ul>
+<li>满级效果<br>Han has a 25% chance to remove 25% Turn Meter from each enemy at the start of each of his turns. In addition, Han has a 25% chance to remove 10% Turn Meter from each enemy when he is damaged.</li>
+<li>类型<br>独有</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 进度条减少</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+5% 进度条减少</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>被攻击时，对所有敌人，25% 几率 移除 5% 进度条</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 进度条减少</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>Han受伤后,+5%进度条减少</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 进度条减少</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="u98CE_u66B4_u5175_u6C49"><a href="#u98CE_u66B4_u5175_u6C49" class="headerlink" title="风暴兵汉"></a>风暴兵汉</h1><h2 id="1_7E7_u661F_u57FA_u]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[纽特 冈睿]]></title>
+    <link href="http://yoursite.com/cijsz886d001kjcbmxu2zufxb/Nute-Gunray/"/>
+    <id>http://yoursite.com/cijsz886d001kjcbmxu2zufxb/Nute-Gunray/</id>
+    <published>2016-01-24T07:50:30.000Z</published>
+    <updated>2016-01-24T20:50:30.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="u7EBD_u7279__u5188_u777F"><a href="#u7EBD_u7279__u5188_u777F" class="headerlink" title="纽特 冈睿"></a>纽特 冈睿</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
+<thead>
+<tr>
+<th></th>
+<th>1星</th>
+<th>2星</th>
+<th>3星</th>
+<th>4星</th>
+<th>5星</th>
+<th>6星</th>
+<th>7星</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>力量</td>
+<td>1.4</td>
+<td></td>
+<td></td>
+<td>3.5</td>
+<td>4.2</td>
+<td>4.9</td>
+<td>5.6</td>
+</tr>
+<tr>
+<td>敏捷</td>
+<td>2.1</td>
+<td></td>
+<td></td>
+<td>5.2</td>
+<td>6.3</td>
+<td>7.4</td>
+<td>8.4</td>
+</tr>
+<tr>
+<td>智慧</td>
+<td>1.1</td>
+<td></td>
+<td></td>
+<td>2.9</td>
+<td>3.5</td>
+<td>4.1</td>
+<td>4.7</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u82F1_u96C4_u6280_u80FD_u6982_u51B5"><a href="#u82F1_u96C4_u6280_u80FD_u6982_u51B5" class="headerlink" title="英雄技能概况"></a>英雄技能概况</h2><table>
+<thead>
+<tr>
+<th>技能</th>
+<th>类型</th>
+<th>冷却时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>怯懦射击</td>
+<td>基本</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>榴弹抛射</td>
+<td>特殊</td>
+<td>5</td>
+</tr>
+<tr>
+<td>伺机而动</td>
+<td>首领</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>机敏战术</td>
+<td>独有</td>
+<td>NA</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u602F_u61E6_u5C04_u51FB"><a href="#u6280_u80FD_u2014_u602F_u61E6_u5C04_u51FB" class="headerlink" title="技能—怯懦射击"></a>技能—怯懦射击</h2><ul>
+<li>满级效果<br>Deal Physical damage to target enemy with a 55% chance to gain Stealth for 1 turn.</li>
+<li>类型<br>基本</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 隐身几率</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+15% 伤害</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u69B4_u5F39_u629B_u5C04"><a href="#u6280_u80FD_u2014_u69B4_u5F39_u629B_u5C04" class="headerlink" title="技能—榴弹抛射"></a>技能—榴弹抛射</h2><ul>
+<li>满级效果<br>Place a Thermal Detonator on target enemy that explodes afer 3 turns, dealing damage to the affected target and 50% of that amount to all other enemies.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>5</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+2.5% 最大生命 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+10% Splash 伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+2.5% 最大生命 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 最大生命伤害</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+2.5% 最大生命 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+2.5% 最大生命 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u4F3A_u673A_u800C_u52A8"><a href="#u6280_u80FD_u2014_u4F3A_u673A_u800C_u52A8" class="headerlink" title="技能—伺机而动"></a>技能—伺机而动</h2><ul>
+<li>满级效果<br>Stealthed allies gain 55% Critical Chance and gain 25% Turn Meter on a Critical hit.</li>
+<li>类型<br>首领</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 暴击率</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>暴击时，+20% 进度条</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 暴击率</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 暴击率</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 暴击率</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u673A_u654F_u6218_u672F"><a href="#u6280_u80FD_u2014_u673A_u654F_u6218_u672F" class="headerlink" title="技能—机敏战术"></a>技能—机敏战术</h2><ul>
+<li>满级效果<br>Nute Gunray gains 3.5% Defense for each living ally, and has 65% Critical Chance while Stealthed.</li>
+<li>类型<br>独有</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+0.5% 防御</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+0.5% 防御</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+15% 暴击率</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+0.5% 防御</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+15% 暴击率</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+0.5% 防御</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="u7EBD_u7279__u5188_u777F"><a href="#u7EBD_u7279__u5188_u777F" class="headerlink" title="纽特 冈睿"></a>纽特 冈睿</h1><h2 id="1_7E7_u661F_u57]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[阿克巴上将]]></title>
+    <link href="http://yoursite.com/cijsz80a2001jjcbmfohma5sx/Admiral-Ackbar/"/>
+    <id>http://yoursite.com/cijsz80a2001jjcbmfohma5sx/Admiral-Ackbar/</id>
+    <published>2016-01-24T07:50:25.000Z</published>
+    <updated>2016-01-24T20:50:25.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="u963F_u514B_u5DF4_u4E0A_u5C06"><a href="#u963F_u514B_u5DF4_u4E0A_u5C06" class="headerlink" title="阿克巴上将"></a>阿克巴上将</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
+<thead>
+<tr>
+<th></th>
+<th>1星</th>
+<th>2星</th>
+<th>3星</th>
+<th>4星</th>
+<th>5星</th>
+<th>6星</th>
+<th>7星</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>力量</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3.5</td>
+<td>4.2</td>
+<td>4.9</td>
+<td>5.7</td>
+</tr>
+<tr>
+<td>敏捷</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3.5</td>
+<td>4.2</td>
+<td>4.9</td>
+<td>5.7</td>
+</tr>
+<tr>
+<td>智慧</td>
+<td></td>
+<td></td>
+<td></td>
+<td>4.7</td>
+<td>5.7</td>
+<td>6.6</td>
+<td>7.6</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u82F1_u96C4_u6280_u80FD_u6982_u51B5"><a href="#u82F1_u96C4_u6280_u80FD_u6982_u51B5" class="headerlink" title="英雄技能概况"></a>英雄技能概况</h2><table>
+<thead>
+<tr>
+<th>技能</th>
+<th>类型</th>
+<th>冷却时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>快速射击</td>
+<td>基本</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>It’s a Trap!</td>
+<td>特殊</td>
+<td>4</td>
+</tr>
+<tr>
+<td>战术天才</td>
+<td>特殊</td>
+<td>4</td>
+</tr>
+<tr>
+<td>反抗军协调</td>
+<td>首领</td>
+<td>NA</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u5FEB_u901F_u5C04_u51FB"><a href="#u6280_u80FD_u2014_u5FEB_u901F_u5C04_u51FB" class="headerlink" title="技能—快速射击"></a>技能—快速射击</h2><ul>
+<li>满级效果<br>Deal Physical damage to target enemy with a 55% chance to gain 30% Turn Meter.</li>
+<li>类型<br>基本</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 进度条获取几率</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+15% 进度条获取几率</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014It_u2019s_a_Trap_21"><a href="#u6280_u80FD_u2014It_u2019s_a_Trap_21" class="headerlink" title="技能—It’s a Trap!"></a>技能—It’s a Trap!</h2><ul>
+<li>满级效果<br>Dispell all negative status effects from all allies.  Each ally recovers 9% of their Max Health for each effect dispelled this way. Admiral Ackbar has a 25% chance to gain 25% Turn Meter.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>4</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+1% 治疗</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>冷却时间 -1</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+1% 治疗</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+1% 治疗</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>25% 机会获得25%进度条</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+1% 治疗</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u6218_u672F_u5929_u624D"><a href="#u6280_u80FD_u2014_u6218_u672F_u5929_u624D" class="headerlink" title="技能—战术天才"></a>技能—战术天才</h2><ul>
+<li>满级效果<br>A random ally gains 100% Turn Meter and 40% Defense Penetration for 1 Turn.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>4</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>20% 防御 穿透1 回合</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+5% 防御穿透</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 防御穿透</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>冷却时间 -1</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 防御穿透</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 防御穿透</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u53CD_u6297_u519B_u534F_u8C03"><a href="#u6280_u80FD_u2014_u53CD_u6297_u519B_u534F_u8C03" class="headerlink" title="技能—反抗军协调"></a>技能—反抗军协调</h2><ul>
+<li>满级效果<br>Rebel allies gain +23 Speed and 10% Tenacity.</li>
+<li>类型<br>首领</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+2 速度</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+2 速度</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+10% 韧性</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+2 速度</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+2 速度</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+2 速度</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="u963F_u514B_u5DF4_u4E0A_u5C06"><a href="#u963F_u514B_u5DF4_u4E0A_u5C06" class="headerlink" title="阿克巴上将"></a>阿克巴上将</h1><h2 id="1_7E7]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[乌格那族]]></title>
+    <link href="http://yoursite.com/cijsz7rnt001ijcbmxleqcoto/Ugnaught/"/>
+    <id>http://yoursite.com/cijsz7rnt001ijcbmxleqcoto/Ugnaught/</id>
+    <published>2016-01-24T07:50:20.000Z</published>
+    <updated>2016-01-24T20:50:20.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="u4E4C_u683C_u90A3_u65CF"><a href="#u4E4C_u683C_u90A3_u65CF" class="headerlink" title="乌格那族"></a>乌格那族</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
+<thead>
+<tr>
+<th></th>
+<th>1星</th>
+<th>2星</th>
+<th>3星</th>
+<th>4星</th>
+<th>5星</th>
+<th>6星</th>
+<th>7星</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>力量</td>
+<td></td>
+<td>2</td>
+<td>2.7</td>
+<td>3.4</td>
+<td>4.1</td>
+<td>4.8</td>
+<td>5.5</td>
+</tr>
+<tr>
+<td>敏捷</td>
+<td></td>
+<td>2</td>
+<td>2.7</td>
+<td>3.4</td>
+<td>4.1</td>
+<td>4.8</td>
+<td>5.5</td>
+</tr>
+<tr>
+<td>智慧</td>
+<td></td>
+<td>2.7</td>
+<td>3.6</td>
+<td>4.5</td>
+<td>5.5</td>
+<td>6.4</td>
+<td>7.3</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u82F1_u96C4_u6280_u80FD_u6982_u51B5"><a href="#u82F1_u96C4_u6280_u80FD_u6982_u51B5" class="headerlink" title="英雄技能概况"></a>英雄技能概况</h2><table>
+<thead>
+<tr>
+<th>技能</th>
+<th>类型</th>
+<th>冷却时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>打开缺口</td>
+<td>基本</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>机器人专家</td>
+<td>特殊</td>
+<td>3</td>
+</tr>
+<tr>
+<td>超前一步</td>
+<td>独有</td>
+<td>NA</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u6253_u5F00_u7F3A_u53E3"><a href="#u6280_u80FD_u2014_u6253_u5F00_u7F3A_u53E3" class="headerlink" title="技能—打开缺口"></a>技能—打开缺口</h2><ul>
+<li>满级效果<br>Deal Physical damage to target enemy.  This attack deals 100% more damage to Droids.</li>
+<li>类型<br>基本</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>对机器人 +25% 伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>对机器人 +25% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u673A_u5668_u4EBA_u4E13_u5BB6"><a href="#u6280_u80FD_u2014_u673A_u5668_u4EBA_u4E13_u5BB6" class="headerlink" title="技能—机器人专家"></a>技能—机器人专家</h2><ul>
+<li>满级效果<br>Deal Special damage to all enemies with a 60% chance to Stun Droids for 1 turn.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>3</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+15% 眩晕几率</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+15% 眩晕几率</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u8D85_u524D_u4E00_u6B65"><a href="#u6280_u80FD_u2014_u8D85_u524D_u4E00_u6B65" class="headerlink" title="技能—超前一步"></a>技能—超前一步</h2><ul>
+<li>满级效果<br>Ugnaught gains 8% Evasion for each Droid enemy and gains 25% Turn Meter whenever he Evades and attack.</li>
+<li>类型<br>独有</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+1% 闪避</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>闪避时，+20%进度条</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+1% 闪避</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+1% 闪避</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 进度条获取</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+1% 闪避</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="u4E4C_u683C_u90A3_u65CF"><a href="#u4E4C_u683C_u90A3_u65CF" class="headerlink" title="乌格那族"></a>乌格那族</h1><h2 id="1_7E7_u661F_u57FA_u]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[奎刚金]]></title>
+    <link href="http://yoursite.com/cijsz7j68001hjcbm3gveb5vm/Qui-Gon-Jinn/"/>
+    <id>http://yoursite.com/cijsz7j68001hjcbm3gveb5vm/Qui-Gon-Jinn/</id>
+    <published>2016-01-24T07:50:13.000Z</published>
+    <updated>2016-01-24T20:50:13.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="u594E_u521A_u91D1"><a href="#u594E_u521A_u91D1" class="headerlink" title="奎刚金"></a>奎刚金</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
+<thead>
+<tr>
+<th></th>
+<th>1星</th>
+<th>2星</th>
+<th>3星</th>
+<th>4星</th>
+<th>5星</th>
+<th>6星</th>
+<th>7星</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>力量</td>
+<td>1.3</td>
+<td>2</td>
+<td>2.7</td>
+<td>3.4</td>
+<td>4.1</td>
+<td>4.8</td>
+<td>5.5</td>
+</tr>
+<tr>
+<td>敏捷</td>
+<td>1.3</td>
+<td>2</td>
+<td>2.7</td>
+<td>3.4</td>
+<td>4.1</td>
+<td>4.8</td>
+<td>5.5</td>
+</tr>
+<tr>
+<td>智慧</td>
+<td>1.8</td>
+<td>2.7</td>
+<td>3.7</td>
+<td>4.6</td>
+<td>5.5</td>
+<td>6.5</td>
+<td>7.4</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u82F1_u96C4_u6280_u80FD_u6982_u51B5"><a href="#u82F1_u96C4_u6280_u80FD_u6982_u51B5" class="headerlink" title="英雄技能概况"></a>英雄技能概况</h2><table>
+<thead>
+<tr>
+<th>技能</th>
+<th>类型</th>
+<th>冷却时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>快速打击</td>
+<td>基本</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>默契突击</td>
+<td>特殊</td>
+<td>3</td>
+</tr>
+<tr>
+<td>谦卑打击</td>
+<td>特殊</td>
+<td>4</td>
+</tr>
+<tr>
+<td>敏捷训练</td>
+<td>首领</td>
+<td>NA</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u5FEB_u901F_u6253_u51FB"><a href="#u6280_u80FD_u2014_u5FEB_u901F_u6253_u51FB" class="headerlink" title="技能—快速打击"></a>技能—快速打击</h2><ul>
+<li>满级效果<br>Deal Physical damage to target enemy with a 65% chance to gain 30% Turn Meter.</li>
+<li>类型<br>基本</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+15% 进度条获取几率</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+10% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+10% 进度条获取</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u9ED8_u5951_u7A81_u51FB"><a href="#u6280_u80FD_u2014_u9ED8_u5951_u7A81_u51FB" class="headerlink" title="技能—默契突击"></a>技能—默契突击</h2><ul>
+<li>满级效果<br>Deal Special damage to target enemy and call an ally to Assist.  The Assisting ally deals 75% more Damage.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>3</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+50% 助攻 伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>冷却时间 -1</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+10% 伤害</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+25% 助攻 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u8C26_u5351_u6253_u51FB"><a href="#u6280_u80FD_u2014_u8C26_u5351_u6253_u51FB" class="headerlink" title="技能—谦卑打击"></a>技能—谦卑打击</h2><ul>
+<li>满级效果<br>Deal Special damage to target enemy and remove all positive status effects. If an effect is dispelled, all allies gain Offense Up for 2 turns.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>4</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+10% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>冷却时间 -1</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>友军进攻 提升2回合</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u654F_u6377_u8BAD_u7EC3"><a href="#u6280_u80FD_u2014_u654F_u6377_u8BAD_u7EC3" class="headerlink" title="技能—敏捷训练"></a>技能—敏捷训练</h2><ul>
+<li>满级效果<br>Jedi allies gain 23 Speed.</li>
+<li>类型<br>首领</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+2 速度</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+5 速度</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+2 速度</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+2 速度</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+2 速度</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+2 速度</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="u594E_u521A_u91D1"><a href="#u594E_u521A_u91D1" class="headerlink" title="奎刚金"></a>奎刚金</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u63]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[莱亚公主]]></title>
+    <link href="http://yoursite.com/cijsz76la001gjcbmwwi7ttgl/Princess-Leia/"/>
+    <id>http://yoursite.com/cijsz76la001gjcbmwwi7ttgl/Princess-Leia/</id>
+    <published>2016-01-24T07:50:00.000Z</published>
+    <updated>2016-01-24T20:50:00.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="u83B1_u4E9A_u516C_u4E3B"><a href="#u83B1_u4E9A_u516C_u4E3B" class="headerlink" title="莱亚公主"></a>莱亚公主</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
+<thead>
+<tr>
+<th></th>
+<th>1星</th>
+<th>2星</th>
+<th>3星</th>
+<th>4星</th>
+<th>5星</th>
+<th>6星</th>
+<th>7星</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>力量</td>
+<td></td>
+<td>2.1</td>
+<td>2.8</td>
+<td>3.6</td>
+<td>4.3</td>
+<td>5</td>
+<td>5.7</td>
+</tr>
+<tr>
+<td>敏捷</td>
+<td></td>
+<td>3.2</td>
+<td>4.3</td>
+<td>5.4</td>
+<td>6.5</td>
+<td>7.5</td>
+<td>8.6</td>
+</tr>
+<tr>
+<td>智慧</td>
+<td></td>
+<td>1.8</td>
+<td>2.4</td>
+<td>3</td>
+<td>3.6</td>
+<td>4.2</td>
+<td>4.8</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u82F1_u96C4_u6280_u80FD_u6982_u51B5"><a href="#u82F1_u96C4_u6280_u80FD_u6982_u51B5" class="headerlink" title="英雄技能概况"></a>英雄技能概况</h2><table>
+<thead>
+<tr>
+<th>技能</th>
+<th>类型</th>
+<th>冷却时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>一触即发</td>
+<td>基本</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>反抗军战术</td>
+<td>特殊</td>
+<td>5</td>
+</tr>
+<tr>
+<td>反抗军之心</td>
+<td>首领</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>不惜一切</td>
+<td>独有</td>
+<td>NA</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u4E00_u89E6_u5373_u53D1"><a href="#u6280_u80FD_u2014_u4E00_u89E6_u5373_u53D1" class="headerlink" title="技能—一触即发"></a>技能—一触即发</h2><ul>
+<li>满级效果<br>Deal Physical damage to target enemy with a 55% chance to attack a second time and a 40% chance to attack a third time.</li>
+<li>类型<br>基本</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 多次攻击 几率</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+15% 多次攻击 几率</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u53CD_u6297_u519B_u6218_u672F"><a href="#u6280_u80FD_u2014_u53CD_u6297_u519B_u6218_u672F" class="headerlink" title="技能—反抗军战术"></a>技能—反抗军战术</h2><ul>
+<li>满级效果<br>Gains Stealth and 25% Critical Hit Damage for 3 Turns.  In addition, 55% chance to gain Offense Up for 3 Turns.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>5</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>额外影响持续 +1</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>25% 几率获得 进攻 提升 ，持续 2 回合s</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>冷却时间 -1</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+15% 额外影响几率</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>额外影响持续 +1</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+15% 额外影响几率</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u53CD_u6297_u519B_u4E4B_u5FC3"><a href="#u6280_u80FD_u2014_u53CD_u6297_u519B_u4E4B_u5FC3" class="headerlink" title="技能—反抗军之心"></a>技能—反抗军之心</h2><ul>
+<li>满级效果<br>Rebel allies gain 18% Critical Chance.</li>
+<li>类型<br>首领</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+1% 暴击率</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+2% 暴击率</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+1% 暴击率</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+2% 暴击率</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+1% 暴击率</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+1% 暴击率</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u4E0D_u60DC_u4E00_u5207"><a href="#u6280_u80FD_u2014_u4E0D_u60DC_u4E00_u5207" class="headerlink" title="技能—不惜一切"></a>技能—不惜一切</h2><ul>
+<li>满级效果<br>Whenever Princess Leia attacks, she has a 55% chance to grant all allies Critical Chance Up for 2 turns, and a 40% chance to recover 5% of her Maximum Health.</li>
+<li>类型<br>独有</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+15% 暴击率 提升几率</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 治疗几率</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+15% 暴击率 提升几率</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+15% 治疗几率</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+15% 暴击率 提升几率</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+15% 治疗几率</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="u83B1_u4E9A_u516C_u4E3B"><a href="#u83B1_u4E9A_u516C_u4E3B" class="headerlink" title="莱亚公主"></a>莱亚公主</h1><h2 id="1_7E7_u661F_u57FA_u]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[暗夜姐妹 侍从]]></title>
+    <link href="http://yoursite.com/cijsz6wj7001fjcbmbp1fr47h/Nightsister-Acolyte/"/>
+    <id>http://yoursite.com/cijsz6wj7001fjcbmbp1fr47h/Nightsister-Acolyte/</id>
+    <published>2016-01-24T07:49:53.000Z</published>
+    <updated>2016-01-24T20:49:53.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="u6697_u591C_u59D0_u59B9__u4F8D_u4ECE"><a href="#u6697_u591C_u59D0_u59B9__u4F8D_u4ECE" class="headerlink" title="暗夜姐妹 侍从"></a>暗夜姐妹 侍从</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
+<thead>
+<tr>
+<th></th>
+<th>1星</th>
+<th>2星</th>
+<th>3星</th>
+<th>4星</th>
+<th>5星</th>
+<th>6星</th>
+<th>7星</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>力量</td>
+<td>1.5</td>
+<td>2.3</td>
+<td>3.1</td>
+<td>3.9</td>
+<td>4.7</td>
+<td>5.5</td>
+<td>6.2</td>
+</tr>
+<tr>
+<td>敏捷</td>
+<td>1.4</td>
+<td>2.1</td>
+<td>2.9</td>
+<td>3.6</td>
+<td>4.3</td>
+<td>5</td>
+<td>5.8</td>
+</tr>
+<tr>
+<td>智慧</td>
+<td>1.6</td>
+<td>2.4</td>
+<td>3.2</td>
+<td>4</td>
+<td>4.8</td>
+<td>5.7</td>
+<td>6.5</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u82F1_u96C4_u6280_u80FD_u6982_u51B5"><a href="#u82F1_u96C4_u6280_u80FD_u6982_u51B5" class="headerlink" title="英雄技能概况"></a>英雄技能概况</h2><table>
+<thead>
+<tr>
+<th>技能</th>
+<th>类型</th>
+<th>冷却时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>暗中出击</td>
+<td>基本</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>献祭魔法</td>
+<td>特殊</td>
+<td>3</td>
+</tr>
+<tr>
+<td>胜利激情</td>
+<td>独有</td>
+<td>NA</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u6697_u4E2D_u51FA_u51FB"><a href="#u6280_u80FD_u2014_u6697_u4E2D_u51FA_u51FB" class="headerlink" title="技能—暗中出击"></a>技能—暗中出击</h2><ul>
+<li>满级效果<br>Deal Physical damage to target enemy with a 40% chance to gain Stealth for 2 turns.</li>
+<li>类型<br>基本</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 隐身几率</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+15% 伤害</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u732E_u796D_u9B54_u6CD5"><a href="#u6280_u80FD_u2014_u732E_u796D_u9B54_u6CD5" class="headerlink" title="技能—献祭魔法"></a>技能—献祭魔法</h2><ul>
+<li>满级效果<br>Deal Special damage to target enemy.  On a finishing blow, gain 25% Turn Meter and remove all negative status effects from all allies.</li>
+<li>类型<br>特殊</li>
+<li>冷却时间<br>3</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+15% 伤害</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>最后一击+25% 进度条</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 伤害</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+5% 伤害</td>
+</tr>
+</tbody>
+</table>
+<h2 id="u6280_u80FD_u2014_u80DC_u5229_u6FC0_u60C5"><a href="#u6280_u80FD_u2014_u80DC_u5229_u6FC0_u60C5" class="headerlink" title="技能—胜利激情"></a>技能—胜利激情</h2><ul>
+<li>满级效果<br>Nightsister Acolyte has +10% Critical Chance and recovers 20% of her Max Health when scoring a Critical Hit.</li>
+<li>类型<br>独有</li>
+<li>冷却时间<br>NA</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>级别</th>
+<th>升级效果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LvL 1</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>LvL 2</td>
+<td>+2.5% 治疗</td>
+</tr>
+<tr>
+<td>LvL 3</td>
+<td>+2.5% 治疗</td>
+</tr>
+<tr>
+<td>LvL 4</td>
+<td>+5% 暴击率</td>
+</tr>
+<tr>
+<td>LvL 5</td>
+<td>+2.5% 治疗</td>
+</tr>
+<tr>
+<td>LvL 6</td>
+<td>+5% 暴击率</td>
+</tr>
+<tr>
+<td>LvL 7</td>
+<td>+2.5% 治疗</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="u6697_u591C_u59D0_u59B9__u4F8D_u4ECE"><a href="#u6697_u591C_u59D0_u59B9__u4F8D_u4ECE" class="headerlink" title="暗夜姐妹 侍从"></a>暗夜姐妹 侍从]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
