@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[Hexo]]></title>
+  <title><![CDATA[星战：银河英雄]]></title>
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2016-01-24T20:52:21.000Z</updated>
+  <updated>2016-01-25T00:16:26.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,9 +15,32 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://yoursite.com/cijt852rk00017wbmg0esvqex/hello-world/"/>
+    <id>http://yoursite.com/cijt852rk00017wbmg0esvqex/hello-world/</id>
+    <published>2016-01-25T00:16:27.000Z</published>
+    <updated>2016-01-25T00:16:26.000Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start"><a href="#Quick_Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create_a_new_post"><a href="#Create_a_new_post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server"><a href="#Run_server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate_static_files"><a href="#Generate_static_files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy_to_remote_sites"><a href="#Deploy_to_remote_sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+<p>ok</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[蕾伊]]></title>
-    <link href="http://yoursite.com/cijt0u4d1001yjcbmbo6ek0c7/Rey/"/>
-    <id>http://yoursite.com/cijt0u4d1001yjcbmbo6ek0c7/Rey/</id>
+    <link href="http://yoursite.com/cijt852s3000c7wbmcvhpxzkf/Rey/"/>
+    <id>http://yoursite.com/cijt852s3000c7wbmcvhpxzkf/Rey/</id>
     <published>2016-01-24T07:52:21.000Z</published>
     <updated>2016-01-24T20:52:21.000Z</updated>
     <content type="html"><![CDATA[<h1 id="u857E_u4F0A"><a href="#u857E_u4F0A" class="headerlink" title="蕾伊"></a>蕾伊</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
@@ -278,8 +301,8 @@
   
   <entry>
     <title><![CDATA[第一教团军官]]></title>
-    <link href="http://yoursite.com/cijt0u09m001xjcbmosaglu3t/First-Order-Officer/"/>
-    <id>http://yoursite.com/cijt0u09m001xjcbmosaglu3t/First-Order-Officer/</id>
+    <link href="http://yoursite.com/cijt852u2001e7wbm1lzuw8yy/First-Order-Officer/"/>
+    <id>http://yoursite.com/cijt852u2001e7wbm1lzuw8yy/First-Order-Officer/</id>
     <published>2016-01-24T07:52:16.000Z</published>
     <updated>2016-01-24T20:52:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="u7B2C_u4E00_u6559_u56E2_u519B_u5B98"><a href="#u7B2C_u4E00_u6559_u56E2_u519B_u5B98" class="headerlink" title="第一教团军官"></a>第一教团军官</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
@@ -492,8 +515,8 @@
   
   <entry>
     <title><![CDATA[波 达美伦]]></title>
-    <link href="http://yoursite.com/cijt0ttby001wjcbmx45icygy/Poe-Dameron/"/>
-    <id>http://yoursite.com/cijt0ttby001wjcbmx45icygy/Poe-Dameron/</id>
+    <link href="http://yoursite.com/cijt852sg000i7wbmeapnkmm9/Poe-Dameron/"/>
+    <id>http://yoursite.com/cijt852sg000i7wbmeapnkmm9/Poe-Dameron/</id>
     <published>2016-01-24T07:52:07.000Z</published>
     <updated>2016-01-24T20:52:07.000Z</updated>
     <content type="html"><![CDATA[<h1 id="u6CE2__u8FBE_u7F8E_u4F26"><a href="#u6CE2__u8FBE_u7F8E_u4F26" class="headerlink" title="波 达美伦"></a>波 达美伦</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
@@ -754,8 +777,8 @@
   
   <entry>
     <title><![CDATA[法斯码上尉]]></title>
-    <link href="http://yoursite.com/cijt0ti3m001vjcbm53i5z766/Captain-Phasma/"/>
-    <id>http://yoursite.com/cijt0ti3m001vjcbm53i5z766/Captain-Phasma/</id>
+    <link href="http://yoursite.com/cijt852uk001r7wbmqksiu5hc/Captain-Phasma/"/>
+    <id>http://yoursite.com/cijt852uk001r7wbmqksiu5hc/Captain-Phasma/</id>
     <published>2016-01-24T07:51:51.000Z</published>
     <updated>2016-01-24T20:51:51.000Z</updated>
     <content type="html"><![CDATA[<h1 id="u6CD5_u65AF_u7801_u4E0A_u5C09"><a href="#u6CD5_u65AF_u7801_u4E0A_u5C09" class="headerlink" title="法斯码上尉"></a>法斯码上尉</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
@@ -1016,8 +1039,8 @@
   
   <entry>
     <title><![CDATA[费恩]]></title>
-    <link href="http://yoursite.com/cijt0t204001ujcbmut30n4dd/Finn/"/>
-    <id>http://yoursite.com/cijt0t204001ujcbmut30n4dd/Finn/</id>
+    <link href="http://yoursite.com/cijt852u3001f7wbm8u03403t/Finn/"/>
+    <id>http://yoursite.com/cijt852u3001f7wbm8u03403t/Finn/</id>
     <published>2016-01-24T07:51:32.000Z</published>
     <updated>2016-01-24T20:51:32.000Z</updated>
     <content type="html"><![CDATA[<h1 id="u8D39_u6069"><a href="#u8D39_u6069" class="headerlink" title="费恩"></a>费恩</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
@@ -1278,8 +1301,8 @@
   
   <entry>
     <title><![CDATA[凯洛 伦]]></title>
-    <link href="http://yoursite.com/cijt0iwnq001tjcbmpkd650tv/Kylo-Ren/"/>
-    <id>http://yoursite.com/cijt0iwnq001tjcbmpkd650tv/Kylo-Ren/</id>
+    <link href="http://yoursite.com/cijt852t5000v7wbm1j38fiwu/Kylo-Ren/"/>
+    <id>http://yoursite.com/cijt852t5000v7wbm1j38fiwu/Kylo-Ren/</id>
     <published>2016-01-24T07:51:20.000Z</published>
     <updated>2016-01-24T20:51:20.000Z</updated>
     <content type="html"><![CDATA[<h1 id="u51EF_u6D1B__u4F26"><a href="#u51EF_u6D1B__u4F26" class="headerlink" title="凯洛 伦"></a>凯洛 伦</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
@@ -1540,8 +1563,8 @@
   
   <entry>
     <title><![CDATA[反抗军士兵]]></title>
-    <link href="http://yoursite.com/cijt0iu5u001sjcbmrun3vq34/Resistance-Trooper/"/>
-    <id>http://yoursite.com/cijt0iu5u001sjcbmrun3vq34/Resistance-Trooper/</id>
+    <link href="http://yoursite.com/cijt852s5000d7wbmcjrra82t/Resistance-Trooper/"/>
+    <id>http://yoursite.com/cijt852s5000d7wbmcjrra82t/Resistance-Trooper/</id>
     <published>2016-01-24T07:51:16.000Z</published>
     <updated>2016-01-24T20:51:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="u53CD_u6297_u519B_u58EB_u5175"><a href="#u53CD_u6297_u519B_u58EB_u5175" class="headerlink" title="反抗军士兵"></a>反抗军士兵</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
@@ -1754,8 +1777,8 @@
   
   <entry>
     <title><![CDATA[反抗军飞行员]]></title>
-    <link href="http://yoursite.com/cijsz9ek9001rjcbmhtoyhsml/Resistance-Pilot/"/>
-    <id>http://yoursite.com/cijsz9ek9001rjcbmhtoyhsml/Resistance-Pilot/</id>
+    <link href="http://yoursite.com/cijt852s7000e7wbmjyccnynr/Resistance-Pilot/"/>
+    <id>http://yoursite.com/cijt852s7000e7wbmjyccnynr/Resistance-Pilot/</id>
     <published>2016-01-24T07:51:10.000Z</published>
     <updated>2016-01-24T20:51:10.000Z</updated>
     <content type="html"><![CDATA[<h1 id="u53CD_u6297_u519B_u98DE_u884C_u5458"><a href="#u53CD_u6297_u519B_u98DE_u884C_u5458" class="headerlink" title="反抗军飞行员"></a>反抗军飞行员</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
@@ -1968,8 +1991,8 @@
   
   <entry>
     <title><![CDATA[第一教团钛合金飞行员]]></title>
-    <link href="http://yoursite.com/cijsz9025001qjcbm1x4vxjf7/First-Order-TIE-Pilot/"/>
-    <id>http://yoursite.com/cijsz9025001qjcbm1x4vxjf7/First-Order-TIE-Pilot/</id>
+    <link href="http://yoursite.com/cijt852tz001c7wbmr858ub7d/First-Order-TIE-Pilot/"/>
+    <id>http://yoursite.com/cijt852tz001c7wbmr858ub7d/First-Order-TIE-Pilot/</id>
     <published>2016-01-24T07:51:05.000Z</published>
     <updated>2016-01-24T20:51:05.000Z</updated>
     <content type="html"><![CDATA[<h1 id="u7B2C_u4E00_u6559_u56E2_u949B_u5408_u91D1_u98DE_u884C_u5458"><a href="#u7B2C_u4E00_u6559_u56E2_u949B_u5408_u91D1_u98DE_u884C_u5458" class="headerlink" title="第一教团钛合金飞行员"></a>第一教团钛合金飞行员</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
@@ -2182,8 +2205,8 @@
   
   <entry>
     <title><![CDATA[第一教团风暴兵]]></title>
-    <link href="http://yoursite.com/cijsz8uet001pjcbmiixygilk/First-Order-Stormtrooper/"/>
-    <id>http://yoursite.com/cijsz8uet001pjcbmiixygilk/First-Order-Stormtrooper/</id>
+    <link href="http://yoursite.com/cijt852u0001d7wbmty98xgx6/First-Order-Stormtrooper/"/>
+    <id>http://yoursite.com/cijt852u0001d7wbmty98xgx6/First-Order-Stormtrooper/</id>
     <published>2016-01-24T07:50:58.000Z</published>
     <updated>2016-01-24T20:50:58.000Z</updated>
     <content type="html"><![CDATA[<h1 id="u7B2C_u4E00_u6559_u56E2_u98CE_u66B4_u5175"><a href="#u7B2C_u4E00_u6559_u56E2_u98CE_u66B4_u5175" class="headerlink" title="第一教团风暴兵"></a>第一教团风暴兵</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
@@ -2396,8 +2419,8 @@
   
   <entry>
     <title><![CDATA[兰多 卡瑞辛]]></title>
-    <link href="http://yoursite.com/cijsz8pxg001ojcbmbvdcmm2z/Lando-Calrissian/"/>
-    <id>http://yoursite.com/cijsz8pxg001ojcbmbvdcmm2z/Lando-Calrissian/</id>
+    <link href="http://yoursite.com/cijt852t2000u7wbm2zsuuizb/Lando-Calrissian/"/>
+    <id>http://yoursite.com/cijt852t2000u7wbm2zsuuizb/Lando-Calrissian/</id>
     <published>2016-01-24T07:50:53.000Z</published>
     <updated>2016-01-24T20:50:53.000Z</updated>
     <content type="html"><![CDATA[<h1 id="u5170_u591A__u5361_u745E_u8F9B"><a href="#u5170_u591A__u5361_u745E_u8F9B" class="headerlink" title="兰多 卡瑞辛"></a>兰多 卡瑞辛</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
@@ -2658,8 +2681,8 @@
   
   <entry>
     <title><![CDATA[绝地武士安纳金]]></title>
-    <link href="http://yoursite.com/cijsz8kbd001njcbm6lqacow6/Jedi-Knight-Anakin/"/>
-    <id>http://yoursite.com/cijsz8kbd001njcbm6lqacow6/Jedi-Knight-Anakin/</id>
+    <link href="http://yoursite.com/cijt852te000y7wbmdp7bioxc/Jedi-Knight-Anakin/"/>
+    <id>http://yoursite.com/cijt852te000y7wbmdp7bioxc/Jedi-Knight-Anakin/</id>
     <published>2016-01-24T07:50:47.000Z</published>
     <updated>2016-01-24T20:50:47.000Z</updated>
     <content type="html"><![CDATA[<h1 id="u7EDD_u5730_u6B66_u58EB_u5B89_u7EB3_u91D1"><a href="#u7EDD_u5730_u6B66_u58EB_u5B89_u7EB3_u91D1" class="headerlink" title="绝地武士安纳金"></a>绝地武士安纳金</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
@@ -2920,8 +2943,8 @@
   
   <entry>
     <title><![CDATA[卢克 天行者]]></title>
-    <link href="http://yoursite.com/cijsz8f2x001mjcbm54klo0gj/Luke-Skywalker/"/>
-    <id>http://yoursite.com/cijsz8f2x001mjcbm54klo0gj/Luke-Skywalker/</id>
+    <link href="http://yoursite.com/cijt852sz000s7wbm643jz3lr/Luke-Skywalker/"/>
+    <id>http://yoursite.com/cijt852sz000s7wbm643jz3lr/Luke-Skywalker/</id>
     <published>2016-01-24T07:50:40.000Z</published>
     <updated>2016-01-24T20:50:40.000Z</updated>
     <content type="html"><![CDATA[<h1 id="u5362_u514B__u5929_u884C_u8005"><a href="#u5362_u514B__u5929_u884C_u8005" class="headerlink" title="卢克 天行者"></a>卢克 天行者</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
@@ -3182,8 +3205,8 @@
   
   <entry>
     <title><![CDATA[风暴兵汉]]></title>
-    <link href="http://yoursite.com/cijsz8boe001ljcbmmv8x19nj/Stormtrooper-Han/"/>
-    <id>http://yoursite.com/cijsz8boe001ljcbmmv8x19nj/Stormtrooper-Han/</id>
+    <link href="http://yoursite.com/cijt852rv00077wbmb3de0vej/Stormtrooper-Han/"/>
+    <id>http://yoursite.com/cijt852rv00077wbmb3de0vej/Stormtrooper-Han/</id>
     <published>2016-01-24T07:50:35.000Z</published>
     <updated>2016-01-24T20:50:35.000Z</updated>
     <content type="html"><![CDATA[<h1 id="u98CE_u66B4_u5175_u6C49"><a href="#u98CE_u66B4_u5175_u6C49" class="headerlink" title="风暴兵汉"></a>风暴兵汉</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
@@ -3444,8 +3467,8 @@
   
   <entry>
     <title><![CDATA[纽特 冈睿]]></title>
-    <link href="http://yoursite.com/cijsz886d001kjcbmxu2zufxb/Nute-Gunray/"/>
-    <id>http://yoursite.com/cijsz886d001kjcbmxu2zufxb/Nute-Gunray/</id>
+    <link href="http://yoursite.com/cijt852sn000m7wbmixf82kuf/Nute-Gunray/"/>
+    <id>http://yoursite.com/cijt852sn000m7wbmixf82kuf/Nute-Gunray/</id>
     <published>2016-01-24T07:50:30.000Z</published>
     <updated>2016-01-24T20:50:30.000Z</updated>
     <content type="html"><![CDATA[<h1 id="u7EBD_u7279__u5188_u777F"><a href="#u7EBD_u7279__u5188_u777F" class="headerlink" title="纽特 冈睿"></a>纽特 冈睿</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
@@ -3706,8 +3729,8 @@
   
   <entry>
     <title><![CDATA[阿克巴上将]]></title>
-    <link href="http://yoursite.com/cijsz80a2001jjcbmfohma5sx/Admiral-Ackbar/"/>
-    <id>http://yoursite.com/cijsz80a2001jjcbmfohma5sx/Admiral-Ackbar/</id>
+    <link href="http://yoursite.com/cijt852uy001z7wbmfehw4atj/Admiral-Ackbar/"/>
+    <id>http://yoursite.com/cijt852uy001z7wbmfehw4atj/Admiral-Ackbar/</id>
     <published>2016-01-24T07:50:25.000Z</published>
     <updated>2016-01-24T20:50:25.000Z</updated>
     <content type="html"><![CDATA[<h1 id="u963F_u514B_u5DF4_u4E0A_u5C06"><a href="#u963F_u514B_u5DF4_u4E0A_u5C06" class="headerlink" title="阿克巴上将"></a>阿克巴上将</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
@@ -3968,8 +3991,8 @@
   
   <entry>
     <title><![CDATA[乌格那族]]></title>
-    <link href="http://yoursite.com/cijsz7rnt001ijcbmxleqcoto/Ugnaught/"/>
-    <id>http://yoursite.com/cijsz7rnt001ijcbmxleqcoto/Ugnaught/</id>
+    <link href="http://yoursite.com/cijt852rn00027wbmaogbhvzo/Ugnaught/"/>
+    <id>http://yoursite.com/cijt852rn00027wbmaogbhvzo/Ugnaught/</id>
     <published>2016-01-24T07:50:20.000Z</published>
     <updated>2016-01-24T20:50:20.000Z</updated>
     <content type="html"><![CDATA[<h1 id="u4E4C_u683C_u90A3_u65CF"><a href="#u4E4C_u683C_u90A3_u65CF" class="headerlink" title="乌格那族"></a>乌格那族</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
@@ -4182,8 +4205,8 @@
   
   <entry>
     <title><![CDATA[奎刚金]]></title>
-    <link href="http://yoursite.com/cijsz7j68001hjcbm3gveb5vm/Qui-Gon-Jinn/"/>
-    <id>http://yoursite.com/cijsz7j68001hjcbm3gveb5vm/Qui-Gon-Jinn/</id>
+    <link href="http://yoursite.com/cijt852s8000f7wbm9eihccp7/Qui-Gon-Jinn/"/>
+    <id>http://yoursite.com/cijt852s8000f7wbm9eihccp7/Qui-Gon-Jinn/</id>
     <published>2016-01-24T07:50:13.000Z</published>
     <updated>2016-01-24T20:50:13.000Z</updated>
     <content type="html"><![CDATA[<h1 id="u594E_u521A_u91D1"><a href="#u594E_u521A_u91D1" class="headerlink" title="奎刚金"></a>奎刚金</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
@@ -4444,8 +4467,8 @@
   
   <entry>
     <title><![CDATA[莱亚公主]]></title>
-    <link href="http://yoursite.com/cijsz76la001gjcbmwwi7ttgl/Princess-Leia/"/>
-    <id>http://yoursite.com/cijsz76la001gjcbmwwi7ttgl/Princess-Leia/</id>
+    <link href="http://yoursite.com/cijt852sb000g7wbmlrkd0ilq/Princess-Leia/"/>
+    <id>http://yoursite.com/cijt852sb000g7wbmlrkd0ilq/Princess-Leia/</id>
     <published>2016-01-24T07:50:00.000Z</published>
     <updated>2016-01-24T20:50:00.000Z</updated>
     <content type="html"><![CDATA[<h1 id="u83B1_u4E9A_u516C_u4E3B"><a href="#u83B1_u4E9A_u516C_u4E3B" class="headerlink" title="莱亚公主"></a>莱亚公主</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
@@ -4700,220 +4723,6 @@
 ]]></content>
     <summary type="html">
     <![CDATA[<h1 id="u83B1_u4E9A_u516C_u4E3B"><a href="#u83B1_u4E9A_u516C_u4E3B" class="headerlink" title="莱亚公主"></a>莱亚公主</h1><h2 id="1_7E7_u661F_u57FA_u]]>
-    </summary>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[暗夜姐妹 侍从]]></title>
-    <link href="http://yoursite.com/cijsz6wj7001fjcbmbp1fr47h/Nightsister-Acolyte/"/>
-    <id>http://yoursite.com/cijsz6wj7001fjcbmbp1fr47h/Nightsister-Acolyte/</id>
-    <published>2016-01-24T07:49:53.000Z</published>
-    <updated>2016-01-24T20:49:53.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="u6697_u591C_u59D0_u59B9__u4F8D_u4ECE"><a href="#u6697_u591C_u59D0_u59B9__u4F8D_u4ECE" class="headerlink" title="暗夜姐妹 侍从"></a>暗夜姐妹 侍从</h1><h2 id="1_7E7_u661F_u57FA_u7840_u6570_u636E"><a href="#1_7E7_u661F_u57FA_u7840_u6570_u636E" class="headerlink" title="1~7星基础数据"></a>1~7星基础数据</h2><table>
-<thead>
-<tr>
-<th></th>
-<th>1星</th>
-<th>2星</th>
-<th>3星</th>
-<th>4星</th>
-<th>5星</th>
-<th>6星</th>
-<th>7星</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>力量</td>
-<td>1.5</td>
-<td>2.3</td>
-<td>3.1</td>
-<td>3.9</td>
-<td>4.7</td>
-<td>5.5</td>
-<td>6.2</td>
-</tr>
-<tr>
-<td>敏捷</td>
-<td>1.4</td>
-<td>2.1</td>
-<td>2.9</td>
-<td>3.6</td>
-<td>4.3</td>
-<td>5</td>
-<td>5.8</td>
-</tr>
-<tr>
-<td>智慧</td>
-<td>1.6</td>
-<td>2.4</td>
-<td>3.2</td>
-<td>4</td>
-<td>4.8</td>
-<td>5.7</td>
-<td>6.5</td>
-</tr>
-</tbody>
-</table>
-<h2 id="u82F1_u96C4_u6280_u80FD_u6982_u51B5"><a href="#u82F1_u96C4_u6280_u80FD_u6982_u51B5" class="headerlink" title="英雄技能概况"></a>英雄技能概况</h2><table>
-<thead>
-<tr>
-<th>技能</th>
-<th>类型</th>
-<th>冷却时间</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>暗中出击</td>
-<td>基本</td>
-<td>NA</td>
-</tr>
-<tr>
-<td>献祭魔法</td>
-<td>特殊</td>
-<td>3</td>
-</tr>
-<tr>
-<td>胜利激情</td>
-<td>独有</td>
-<td>NA</td>
-</tr>
-</tbody>
-</table>
-<h2 id="u6280_u80FD_u2014_u6697_u4E2D_u51FA_u51FB"><a href="#u6280_u80FD_u2014_u6697_u4E2D_u51FA_u51FB" class="headerlink" title="技能—暗中出击"></a>技能—暗中出击</h2><ul>
-<li>满级效果<br>Deal Physical damage to target enemy with a 40% chance to gain Stealth for 2 turns.</li>
-<li>类型<br>基本</li>
-<li>冷却时间<br>NA</li>
-</ul>
-<table>
-<thead>
-<tr>
-<th>级别</th>
-<th>升级效果</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>LvL 1</td>
-<td>NA</td>
-</tr>
-<tr>
-<td>LvL 2</td>
-<td>+5% 伤害</td>
-</tr>
-<tr>
-<td>LvL 3</td>
-<td>+15% 隐身几率</td>
-</tr>
-<tr>
-<td>LvL 4</td>
-<td>+5% 伤害</td>
-</tr>
-<tr>
-<td>LvL 5</td>
-<td>+15% 伤害</td>
-</tr>
-<tr>
-<td>LvL 6</td>
-<td>+5% 伤害</td>
-</tr>
-<tr>
-<td>LvL 7</td>
-<td>+5% 伤害</td>
-</tr>
-</tbody>
-</table>
-<h2 id="u6280_u80FD_u2014_u732E_u796D_u9B54_u6CD5"><a href="#u6280_u80FD_u2014_u732E_u796D_u9B54_u6CD5" class="headerlink" title="技能—献祭魔法"></a>技能—献祭魔法</h2><ul>
-<li>满级效果<br>Deal Special damage to target enemy.  On a finishing blow, gain 25% Turn Meter and remove all negative status effects from all allies.</li>
-<li>类型<br>特殊</li>
-<li>冷却时间<br>3</li>
-</ul>
-<table>
-<thead>
-<tr>
-<th>级别</th>
-<th>升级效果</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>LvL 1</td>
-<td>NA</td>
-</tr>
-<tr>
-<td>LvL 2</td>
-<td>+5% 伤害</td>
-</tr>
-<tr>
-<td>LvL 3</td>
-<td>+15% 伤害</td>
-</tr>
-<tr>
-<td>LvL 4</td>
-<td>+5% 伤害</td>
-</tr>
-<tr>
-<td>LvL 5</td>
-<td>最后一击+25% 进度条</td>
-</tr>
-<tr>
-<td>LvL 6</td>
-<td>+5% 伤害</td>
-</tr>
-<tr>
-<td>LvL 7</td>
-<td>+5% 伤害</td>
-</tr>
-</tbody>
-</table>
-<h2 id="u6280_u80FD_u2014_u80DC_u5229_u6FC0_u60C5"><a href="#u6280_u80FD_u2014_u80DC_u5229_u6FC0_u60C5" class="headerlink" title="技能—胜利激情"></a>技能—胜利激情</h2><ul>
-<li>满级效果<br>Nightsister Acolyte has +10% Critical Chance and recovers 20% of her Max Health when scoring a Critical Hit.</li>
-<li>类型<br>独有</li>
-<li>冷却时间<br>NA</li>
-</ul>
-<table>
-<thead>
-<tr>
-<th>级别</th>
-<th>升级效果</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>LvL 1</td>
-<td>NA</td>
-</tr>
-<tr>
-<td>LvL 2</td>
-<td>+2.5% 治疗</td>
-</tr>
-<tr>
-<td>LvL 3</td>
-<td>+2.5% 治疗</td>
-</tr>
-<tr>
-<td>LvL 4</td>
-<td>+5% 暴击率</td>
-</tr>
-<tr>
-<td>LvL 5</td>
-<td>+2.5% 治疗</td>
-</tr>
-<tr>
-<td>LvL 6</td>
-<td>+5% 暴击率</td>
-</tr>
-<tr>
-<td>LvL 7</td>
-<td>+2.5% 治疗</td>
-</tr>
-</tbody>
-</table>
-]]></content>
-    <summary type="html">
-    <![CDATA[<h1 id="u6697_u591C_u59D0_u59B9__u4F8D_u4ECE"><a href="#u6697_u591C_u59D0_u59B9__u4F8D_u4ECE" class="headerlink" title="暗夜姐妹 侍从"></a>暗夜姐妹 侍从]]>
     </summary>
     
   </entry>
